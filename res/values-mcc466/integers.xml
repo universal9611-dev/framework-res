@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="config_phonenumber_compare_min_match">9</integer>
+</resources>

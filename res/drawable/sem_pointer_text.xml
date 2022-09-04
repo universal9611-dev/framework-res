@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector android:height="@dimen/sem_mouse_pointer_icon_default_size" android:width="@dimen/sem_mouse_pointer_icon_default_size" android:autoMirrored="true" android:viewportWidth="64.0" android:viewportHeight="64.0"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <path android:fillColor="#ff3d91ff" android:pathData="M32,6L32,6A1.8,1.8 0,0 1,33.8 7.8L33.8,56.2A1.8,1.8 0,0 1,32 58L32,58A1.8,1.8 0,0 1,30.2 56.2L30.2,7.8A1.8,1.8 0,0 1,32 6z" android:strokeColor="#00000000" android:strokeWidth="1.0" android:fillType="evenOdd" />
+</vector>

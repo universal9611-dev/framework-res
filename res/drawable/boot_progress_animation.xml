@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list android:oneshot="false"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:duration="33" android:drawable="@drawable/optimization_000" />
+    <item android:duration="33" android:drawable="@drawable/optimization_001" />
+    <item android:duration="33" android:drawable="@drawable/optimization_002" />
+    <item android:duration="33" android:drawable="@drawable/optimization_003" />
+    <item android:duration="33" android:drawable="@drawable/optimization_004" />
+    <item android:duration="33" android:drawable="@drawable/optimization_005" />
+    <item android:duration="33" android:drawable="@drawable/optimization_006" />
+    <item android:duration="33" android:drawable="@drawable/optimization_007" />
+    <item android:duration="33" android:drawable="@drawable/optimization_008" />
+    <item android:duration="33" android:drawable="@drawable/optimization_009" />
+    <item android:duration="33" android:drawable="@drawable/optimization_010" />
+    <item android:duration="33" android:drawable="@drawable/optimization_011" />
+    <item android:duration="33" android:drawable="@drawable/optimization_012" />
+    <item android:duration="33" android:drawable="@drawable/optimization_013" />
+    <item android:duration="33" android:drawable="@drawable/optimization_014" />
+    <item android:duration="33" android:drawable="@drawable/optimization_015" />
+    <item android:duration="33" android:drawable="@drawable/optimization_016" />
+    <item android:duration="33" android:drawable="@drawable/optimization_017" />
+    <item android:duration="33" android:drawable="@drawable/optimization_018" />
+    <item android:duration="33" android:drawable="@drawable/optimization_019" />
+    <item android:duration="33" android:drawable="@drawable/optimization_020" />
+    <item android:duration="33" android:drawable="@drawable/optimization_021" />
+    <item android:duration="33" android:drawable="@drawable/optimization_022" />
+    <item android:duration="33" android:drawable="@drawable/optimization_023" />
+    <item android:duration="33" android:drawable="@drawable/optimization_024" />
+    <item android:duration="33" android:drawable="@drawable/optimization_025" />
+    <item android:duration="33" android:drawable="@drawable/optimization_026" />
+    <item android:duration="33" android:drawable="@drawable/optimization_027" />
+    <item android:duration="33" android:drawable="@drawable/optimization_028" />
+    <item android:duration="33" android:drawable="@drawable/optimization_029" />
+</animation-list>
