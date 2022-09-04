@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="SDcardBlockUnmount_message">
+        <item quantity="other">Telefon ni stabilen, ker je bila kartica SD, na kateri so bile nameščene aplikacije, odstranjena. Telefon se bo znova zagnal čez %d sekund, da bo začel delovati kot običajno. Pred vnovičnim zagonom telefona shranite morebitne neshranjene podatke.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Telefon ni stabilen, ker je bila kartica SD, na kateri so bile nameščene aplikacije, odstranjena. Telefon se bo znova zagnal čez %d sekundo, da bo začel delovati kot običajno. Pred vnovičnim zagonom telefona shranite morebitne neshranjene podatke.</item>
+        <item quantity="two">Telefon ni stabilen, ker je bila kartica SD, na kateri so bile nameščene aplikacije, odstranjena. Telefon se bo znova zagnal čez %d sekundi, da bo začel delovati kot običajno. Pred vnovičnim zagonom telefona shranite morebitne neshranjene podatke.</item>
+        <item quantity="few">Telefon ni stabilen, ker je bila kartica SD, na kateri so bile nameščene aplikacije, odstranjena. Telefon se bo znova zagnal čez %d sekunde, da bo začel delovati kot običajno. Pred vnovičnim zagonom telefona shranite morebitne neshranjene podatke.</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="SDcardBlockUnmount_title">
+        <item quantity="other">Telefon se bo zn. zagn. čez %d sekund</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Telef. se bo zn. zagn. čez %d sekundo</item>
+        <item quantity="two">Telef. se bo zn. zagn. čez %d sekundi</item>
+        <item quantity="few">Telef. se bo zn. zagn. čez %d sekunde</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="app_kills_content_v2_phone">
+        <item quantity="other">%d aplikacij se je samodejno zaprlo, ker so povzročale pregrevanje telefona. Ko se telefon ohladi, jih lahko znova odprete.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d aplikacija se je samodejno zaprla, ker je povzročala pregrevanje telefona. Ko se telefon ohladi, jo lahko znova odprete.</item>
+        <item quantity="two">%d aplikaciji sta se samodejno zaprli, ker sta povzročali pregrevanje telefona. Ko se telefon ohladi, ju lahko znova odprete.</item>
+        <item quantity="few">%d aplikacije so se samodejno zaprle, ker so povzročale pregrevanje telefona. Ko se telefon ohladi, jih lahko znova odprete.</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="app_kills_content_v2_tablet">
+        <item quantity="other">%d aplikacij se je samodejno zaprlo, ker so povzročale pregrevanje tabličnega računalnika. Ko se tablični računalnik ohladi, jih lahko znova odprete.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d aplikacija se je samodejno zaprla, ker je povzročala pregrevanje tabličnega računalnika. Ko se tablični računalnik ohladi, jo lahko znova odprete.</item>
+        <item quantity="two">%d aplikaciji sta se samodejno zaprli, ker sta povzročali pregrevanje tabličnega računalnika. Ko se tablični računalnik ohladi, ju lahko znova odprete.</item>
+        <item quantity="few">%d aplikacije so se samodejno zaprle, ker so povzročale pregrevanje tabličnega računalnika. Ko se tablični računalnik ohladi, jih lahko znova odprete.</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="app_kills_title_v2">
+        <item quantity="other">%d aplikacij je zaprtih</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d aplikacija je zaprta</item>
+        <item quantity="two">%d aplikaciji sta zaprti</item>
+        <item quantity="few">%d aplikacije so zaprte</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="autofill_picker_some_suggestions">
+        <item quantity="other">%1$s predlogov za samodejno izpolnjevanje</item>
+        <item quantity="one">%1$s predlog za samodejno izpolnjevanje</item>
+    </plurals>
+    <plurals name="bugreport_countdown">
+        <item quantity="other">Posnetek zaslona za poročilo o napakah bo narejen čez %d s.</item>
+        <item quantity="one">Posnetek zaslona za poročilo o napakah bo narejen čez %d s.</item>
+    </plurals>
+    <plurals name="dex_max_count_text">
+        <item quantity="other">Hkrati je lahko na zaslonu prikazanih največ %d aplikacij. Najstarejša aplikacija je bila pomanjšana.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Hkrati je lahko na zaslonu prikazana največ %d aplikacija. Najstarejša aplikacija je bila pomanjšana.</item>
+        <item quantity="two">Hkrati sta lahko na zaslonu prikazani največ %d aplikaciji. Najstarejša aplikacija je bila pomanjšana.</item>
+        <item quantity="few">Hkrati so lahko na zaslonu prikazane največ %d aplikacije. Najstarejša aplikacija je bila pomanjšana.</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="duration_days_relative">
+        <item quantity="other">pred %d dnevi</item>
+        <item quantity="one">pred %d dnevom</item>
+    </plurals>
+    <plurals name="duration_days_relative_future">
+        <item quantity="other">čez %d dni</item>
+        <item quantity="one">čez %d dan</item>
+    </plurals>
+    <plurals name="duration_days_shortest">
+        <item quantity="other">%dd</item>
+        <item quantity="one">%dd</item>
+    </plurals>
+    <plurals name="duration_days_shortest_future">
+        <item quantity="other">čez %dd</item>
+        <item quantity="one">čez %dd</item>
+    </plurals>
+    <plurals name="duration_hours_relative">
+        <item quantity="other">pred %d h</item>
+        <item quantity="one">pred %d h</item>
+    </plurals>
+    <plurals name="duration_hours_relative_future">
+        <item quantity="other">čez %d ur</item>
+        <item quantity="one">čez %d uro</item>
+    </plurals>
+    <plurals name="duration_hours_shortest">
+        <item quantity="other">%dh</item>
+        <item quantity="one">%dh</item>
+    </plurals>
+    <plurals name="duration_hours_shortest_future">
+        <item quantity="other">čez %dh</item>
+        <item quantity="one">čez %dh</item>
+    </plurals>
+    <plurals name="duration_minutes_relative">
+        <item quantity="other">pred %d minutami</item>
+        <item quantity="one">pred %d minuto</item>
+    </plurals>
+    <plurals name="duration_minutes_relative_future">
+        <item quantity="other">čez %d minut</item>
+        <item quantity="one">čez %d minuto</item>
+    </plurals>
+    <plurals name="duration_minutes_shortest">
+        <item quantity="other">%dm</item>
+        <item quantity="one">%dm</item>
+    </plurals>
+    <plurals name="duration_minutes_shortest_future">
+        <item quantity="other">čez %dm</item>
+        <item quantity="one">čez %dm</item>
+    </plurals>
+    <plurals name="duration_years_relative">
+        <item quantity="other">pred %d leti</item>
+        <item quantity="one">pred %d letom</item>
+    </plurals>
+    <plurals name="duration_years_relative_future">
+        <item quantity="other">čez %d let</item>
+        <item quantity="one">čez %d leto</item>
+    </plurals>
+    <plurals name="duration_years_shortest">
+        <item quantity="other">%dl</item>
+        <item quantity="one">%dl</item>
+    </plurals>
+    <plurals name="duration_years_shortest_future">
+        <item quantity="other">čez %d l</item>
+        <item quantity="one">čez %d l</item>
+    </plurals>
+    <plurals name="file_count">
+        <item quantity="other">%1$s in še %2$d datotek</item>
+        <item quantity="one">%1$s in še %2$d datoteka</item>
+    </plurals>
+    <plurals name="hot_key_guide_message">
+        <item quantity="other">Odprite aplikacijo, ki jo želite dodeliti, nato pa pritisnite in %d sekund držite tipko za aplikacije.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Odprite aplikacijo, ki jo želite dodeliti, nato pa pritisnite in %d sekundo držite tipko za aplikacije.</item>
+        <item quantity="two">Odprite aplikacijo, ki jo želite dodeliti, nato pa pritisnite in %d sekundi držite tipko za aplikacije.</item>
+        <item quantity="few">Odprite aplikacijo, ki jo želite dodeliti, nato pa pritisnite in %d sekunde držite tipko za aplikacije.</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_attempts_countdown">
+        <item quantity="other">Poskusite znova čez %d sekund.</item>
+        <item quantity="one">Poskusite znova čez %d sekundo.</item>
+    </plurals>
+    <plurals name="last_num_days">
+        <item quantity="other">Zadnjih %d dni</item>
+        <item quantity="one">Zadnji %d dan</item>
+    </plurals>
+    <plurals name="ltb_warning_content_v2_phone">
+        <item quantity="other">Aplikacija %1$s povzroča pregrevanje telefona. Čez %2$d sekund se bo samodejno zaprla.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Aplikacija %1$s povzroča pregrevanje telefona. Čez %2$d sekundo se bo samodejno zaprla.</item>
+        <item quantity="two">Aplikacija %1$s povzroča pregrevanje telefona. Čez %2$d sekundi se bo samodejno zaprla.</item>
+        <item quantity="few">Aplikacija %1$s povzroča pregrevanje telefona. Čez %2$d sekunde se bo samodejno zaprla.</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="ltb_warning_content_v2_tablet">
+        <item quantity="other">Aplikacija %1$s povzroča pregrevanje tabličnega računalnika. Čez %2$d sekund se bo samodejno zaprla.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Aplikacija %1$s povzroča pregrevanje tabličnega računalnika. Čez %2$d sekundo se bo samodejno zaprla.</item>
+        <item quantity="two">Aplikacija %1$s povzroča pregrevanje tabličnega računalnika. Čez %2$d sekundi se bo samodejno zaprla.</item>
+        <item quantity="few">Aplikacija %1$s povzroča pregrevanje tabličnega računalnika. Čez %2$d sekunde se bo samodejno zaprla.</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="matches_found">
+        <item quantity="other">%1$d od %2$d</item>
+        <item quantity="one">%1$d od %2$d</item>
+    </plurals>
+    <plurals name="mdo_notification_description">
+        <item quantity="other">%d aplikacij uporablja prenos podatkov prek mobilnega omrežja, tudi ko je telefon povezan z omrežjem Wi-Fi.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d aplikacija uporablja prenos podatkov prek mobilnega omrežja, tudi ko je telefon povezan z omrežjem Wi-Fi.</item>
+        <item quantity="two">%d aplikaciji uporabljata prenos podatkov prek mobilnega omrežja, tudi ko je telefon povezan z omrežjem Wi-Fi.</item>
+        <item quantity="few">%d aplikacije uporabljajo prenos podatkov prek mobilnega omrežja, tudi ko je telefon povezan z omrežjem Wi-Fi.</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="overheat_warning_content_v2_phone">
+        <item quantity="other">Aplikacija %1$s povzroča pregrevanje telefona. Aplikacijo lahko zaprete zdaj ali pa se bo čez %2$d sekund samodejno zaprla.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Aplikacija %1$s povzroča pregrevanje telefona. Aplikacijo lahko zaprete zdaj ali pa se bo čez %2$d sekundo samodejno zaprla.</item>
+        <item quantity="two">Aplikacija %1$s povzroča pregrevanje telefona. Aplikacijo lahko zaprete zdaj ali pa se bo čez %2$d sekundi samodejno zaprla.</item>
+        <item quantity="few">Aplikacija %1$s povzroča pregrevanje telefona. Aplikacijo lahko zaprete zdaj ali pa se bo čez %2$d sekunde samodejno zaprla.</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="overheat_warning_content_v2_tablet">
+        <item quantity="other">Aplikacija %1$s povzroča pregrevanje tabličnega računalnika. Aplikacijo lahko zaprete zdaj ali pa se bo čez %2$d sekund samodejno zaprla.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Aplikacija %1$s povzroča pregrevanje tabličnega računalnika. Aplikacijo lahko zaprete zdaj ali pa se bo čez %2$d sekundo samodejno zaprla.</item>
+        <item quantity="two">Aplikacija %1$s povzroča pregrevanje tabličnega računalnika. Aplikacijo lahko zaprete zdaj ali pa se bo čez %2$d sekundi samodejno zaprla.</item>
+        <item quantity="few">Aplikacija %1$s povzroča pregrevanje tabličnega računalnika. Aplikacijo lahko zaprete zdaj ali pa se bo čez %2$d sekunde samodejno zaprla.</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="pinpuk_attempts">
+        <item quantity="other">Na voljo imate še %d poskusov. Potem se bo kartica SIM zaklenila.</item>
+        <item quantity="one">Na voljo imate še %d poskus. Potem se bo kartica SIM zaklenila.</item>
+    </plurals>
+    <plurals name="restr_pin_countdown">
+        <item quantity="other">Poskusite znova čez %d sekund</item>
+        <item quantity="one">Poskusite znova čez %d sekundo</item>
+    </plurals>
+    <plurals name="selected_count">
+        <item quantity="other">%1$d izbranih</item>
+        <item quantity="one">%1$d izbran</item>
+    </plurals>
+    <plurals name="sem_chooser_preview_items">
+        <item quantity="other">%d elementov</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d element</item>
+        <item quantity="two">%d elementa</item>
+        <item quantity="few">%d elementi</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="ssl_ca_cert_warning">
+        <item quantity="other">Nameščeni so overitelji potrdil</item>
+        <item quantity="one">Nameščeni so overitelji potrdil</item>
+    </plurals>
+    <plurals name="zen_mode_duration_hours">
+        <item quantity="other">%d ur</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d ura</item>
+        <item quantity="two">%d uri</item>
+        <item quantity="few">%d ure</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="zen_mode_duration_hours_short">
+        <item quantity="other">%d h</item>
+        <item quantity="one">%d h</item>
+    </plurals>
+    <plurals name="zen_mode_duration_hours_summary">
+        <item quantity="other">Za %1$d ur (do %2$s)</item>
+        <item quantity="one">Za %1$d uro (do %2$s)</item>
+    </plurals>
+    <plurals name="zen_mode_duration_hours_summary_short">
+        <item quantity="other">%1$d h (do %2$s)</item>
+        <item quantity="one">%1$d h (do %2$s)</item>
+    </plurals>
+    <plurals name="zen_mode_duration_minutes">
+        <item quantity="other">%d minut</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d minuta</item>
+        <item quantity="two">%d minuti</item>
+        <item quantity="few">%d minute</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="zen_mode_duration_minutes_short">
+        <item quantity="other">%d min</item>
+        <item quantity="one">%d min</item>
+    </plurals>
+    <plurals name="zen_mode_duration_minutes_summary">
+        <item quantity="other">%1$d minut (do %2$s)</item>
+        <item quantity="one">%1$d minuto (do %2$s)</item>
+    </plurals>
+    <plurals name="zen_mode_duration_minutes_summary_short">
+        <item quantity="other">%1$d min (do %2$s)</item>
+        <item quantity="one">%1$d min (do %2$s)</item>
+    </plurals>
+</resources>

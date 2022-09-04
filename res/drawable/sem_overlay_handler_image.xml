@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item>
+        <shape android:shape="rectangle">
+            <corners android:radius="2.0dip" />
+            <size android:height="@dimen/sem_overlay_handler_height" android:width="@dimen/sem_overlay_handler_width" />
+            <solid android:color="#33fafafa" />
+        </shape>
+    </item>
+    <item>
+        <shape android:shape="rectangle">
+            <corners android:radius="2.0dip" />
+            <solid android:color="@color/sem_overlay_handler_color_focused" />
+            <stroke android:width="0.5dip" android:color="#00ffffff" />
+        </shape>
+    </item>
+</layer-list>

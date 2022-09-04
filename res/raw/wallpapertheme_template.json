@@ -1,0 +1,969 @@
+{
+    "template": [
+        {
+            "opacity": 100,
+            "uid": "1-1-1",
+            "theme": "background"
+        },
+        {
+            "opacity": 100,
+            "uid": "1-32-3-1",
+            "theme": "primary"
+        },
+        {
+            "opacity": 100,
+            "uid": "1-32-3-2",
+            "theme": "primary"
+        },
+        {
+            "opacity": 100,
+            "uid": "1-32-3-3",
+            "theme": "primary"
+        },
+        {
+            "opacity": 100,
+            "uid": "1-32-3-4",
+            "theme": "primary"
+        },
+        {
+            "opacity": 100,
+            "uid": "1-32-5",
+            "theme": "white_black"
+        },
+        {
+            "opacity": 100,
+            "uid": "1-41-11",
+            "theme": "#DB332A"
+        },
+        {
+            "opacity": 50,
+            "uid": "1-41-11-1",
+            "theme": "#DB332A"
+        },
+        {
+            "opacity": 100,
+            "uid": "1-41-12",
+            "theme": "#0381FE"
+        },
+        {
+            "opacity": 50,
+            "uid": "1-41-12-1",
+            "theme": "#0381FE"
+        },
+        {
+            "opacity": 100,
+            "uid": "1-48-5",
+            "theme": "black_white"
+        },
+        {
+            "opacity": 100,
+            "uid": "1-51",
+            "theme": "background"
+        },
+        {
+            "opacity": 100,
+            "uid": "1-69-1",
+            "theme": "background"
+        },
+        {
+            "opacity": 10,
+            "uid": "1-7-1",
+            "theme": "black_white"
+        },
+        {
+            "opacity": 100,
+            "uid": "1-9-15",
+            "theme": "black_white"
+        },
+        {
+            "opacity": 100,
+            "uid": "1-9-16",
+            "theme": "#DB332A"
+        },
+        {
+            "opacity": 100,
+            "uid": "1-A",
+            "theme": "primary"
+        },
+        {
+            "opacity": 100,
+            "uid": "1-D",
+            "theme": "primary"
+        },
+        {
+            "opacity": 100,
+            "uid": "10-2-6",
+            "theme": "primary_dark"
+        },
+        {
+            "opacity": 100,
+            "uid": "12-18-2",
+            "theme": "primary"
+        },
+        {
+            "opacity": 100,
+            "uid": "12-4-5",
+            "theme": "contents_box_bg"
+        },
+        {
+            "opacity": 100,
+            "uid": "12-40-2",
+            "theme": "primary"
+        },
+        {
+            "opacity": 5,
+            "uid": "12-46-10",
+            "theme": "black_white"
+        },
+        {
+            "opacity": 100,
+            "uid": "13-10-16",
+            "theme": "input_field_bg"
+        },
+        {
+            "opacity": 100,
+            "uid": "13-11-4",
+            "theme": "bubble_view_bg"
+        },
+        {
+            "opacity": 100,
+            "uid": "13-26-7",
+            "theme": "black_white"
+        },
+        {
+            "opacity": 100,
+            "uid": "13-3-7",
+            "theme": "#FFFFFF"
+        },
+        {
+            "opacity": 100,
+            "uid": "13-43-1",
+            "theme": "black_white"
+        },
+        {
+            "opacity": 100,
+            "uid": "13-49-1",
+            "theme": "white_black"
+        },
+        {
+            "opacity": 100,
+            "uid": "13-49-2",
+            "theme": "bubble_view_bg"
+        },
+        {
+            "opacity": 100,
+            "uid": "13-5-5",
+            "theme": "fab_bg"
+        },
+        {
+            "opacity": 100,
+            "uid": "13-5-7",
+            "theme": "primary"
+        },
+        {
+            "opacity": 100,
+            "uid": "13-59-3",
+            "theme": "background"
+        },
+        {
+            "opacity": 100,
+            "uid": "13-59-5",
+            "theme": "white_black"
+        },
+        {
+            "opacity": 100,
+            "uid": "13-8-24",
+            "theme": "secondary"
+        },
+        {
+            "opacity": 100,
+            "uid": "13-8-25",
+            "theme": "messages_sentbubble"
+        },
+        {
+            "opacity": 100,
+            "uid": "13-8-26",
+            "theme": "received_bubble"
+        },
+        {
+            "opacity": 100,
+            "uid": "13-8-27",
+            "theme": "#909090"
+        },
+        {
+            "opacity": 100,
+            "uid": "13-8-29",
+            "theme": "highlight"
+        },
+        {
+            "opacity": 100,
+            "uid": "13-9-1",
+            "theme": "black_white"
+        },
+        {
+            "opacity": 100,
+            "uid": "13-9-1-1",
+            "theme": "#FFFFFF"
+        },
+        {
+            "opacity": 100,
+            "uid": "13-9-17",
+            "theme": "highlight"
+        },
+        {
+            "opacity": 100,
+            "uid": "13-9-17-1",
+            "theme": "#FFE59E"
+        },
+        {
+            "opacity": 100,
+            "uid": "13-10-15",
+            "theme": "white_black"
+        },
+        {
+            "opacity": 100,
+            "uid": "13-45-20",
+            "theme": "white_black"
+        },
+        {
+            "opacity": 100,
+            "uid": "13-S-1-2",
+            "theme": "white_black"
+        },
+        {
+            "opacity": 100,
+            "uid": "14-11-1",
+            "theme": "#fafafa"
+        },
+        {
+            "opacity": 100,
+            "uid": "14-11-1-2",
+            "theme": "background"
+        },
+        {
+            "opacity": 100,
+            "uid": "14-34-8",
+            "theme": "fab_bg"
+        },
+        {
+            "opacity": 100,
+            "uid": "14-7-20",
+            "theme": "primary"
+        },
+        {
+            "opacity": 100,
+            "uid": "14-7-25-2",
+            "theme": "primary"
+        },
+        {
+            "opacity": 100,
+            "uid": "14-7-26",
+            "theme": "primary"
+        },
+        {
+            "opacity": 100,
+            "uid": "14-7-4",
+            "theme": "background"
+        },
+        {
+            "opacity": 100,
+            "uid": "14-7-4-1",
+            "theme": "#fafafa"
+        },
+        {
+            "opacity": 100,
+            "uid": "14-7-4-3",
+            "theme": "background"
+        },
+        {
+            "opacity": 100,
+            "uid": "14-7-5",
+            "theme": "primary"
+        },
+        {
+            "opacity": 100,
+            "uid": "14-7-5-3",
+            "theme": "primary"
+        },
+        {
+            "opacity": 100,
+            "uid": "15-4-4",
+            "theme": "primary_dark"
+        },
+        {
+            "opacity": 100,
+            "uid": "15-4-6",
+            "theme": "highlight"
+        },
+        {
+            "opacity": 100,
+            "uid": "15-4-7",
+            "theme": "highlight"
+        },
+        {
+            "opacity": 10,
+            "uid": "15-5-1",
+            "theme": "primary"
+        },
+        {
+            "opacity": 100,
+            "uid": "15-6-1",
+            "theme": "primary_dark"
+        },
+        {
+            "opacity": 100,
+            "uid": "15-6-2",
+            "theme": "highlight"
+        },
+        {
+            "opacity": 100,
+            "uid": "15-6-2-1",
+            "theme": "#DB332A"
+        },
+        {
+            "opacity": 100,
+            "uid": "15-6-4",
+            "theme": "highlight"
+        },
+        {
+            "opacity": 100,
+            "uid": "15-8-1",
+            "theme": "highlight"
+        },
+        {
+            "opacity": 100,
+            "uid": "15-9-3",
+            "theme": "secondary"
+        },
+        {
+            "opacity": 100,
+            "uid": "15-9-4",
+            "theme": "primary"
+        },
+        {
+            "opacity": 100,
+            "uid": "16-1-16",
+            "theme": "black_white"
+        },
+        {
+            "opacity": 100,
+            "uid": "16-6-1",
+            "theme": "fab_bg"
+        },
+        {
+            "opacity": 100,
+            "uid": "16-6-3",
+            "theme": "primary"
+        },
+        {
+            "opacity": 5,
+            "uid": "16-64-1-1",
+            "theme": "black_white"
+        },
+        {
+            "opacity": 100,
+            "uid": "16-69-5",
+            "theme": "black_white"
+        },
+        {
+            "opacity": 100,
+            "uid": "16-90-7",
+            "theme": "black_white"
+        },
+        {
+            "opacity": 5,
+            "uid": "17-12-35",
+            "theme": "black_white"
+        },
+        {
+            "opacity": 20,
+            "uid": "17-3-12",
+            "theme": "black_white"
+        },
+        {
+            "opacity": 100,
+            "uid": "21-1-19",
+            "theme": "black_white"
+        },
+        {
+            "opacity": 100,
+            "uid": "21-1-2",
+            "theme": "black_white"
+        },
+        {
+            "opacity": 100,
+            "uid": "21-1-20",
+            "theme": "black_white"
+        },
+        {
+            "opacity": 100,
+            "uid": "21-1-31",
+            "theme": "black_white"
+        },
+        {
+            "opacity": 100,
+            "uid": "21-1-7",
+            "theme": "black_white"
+        },
+        {
+            "opacity": 100,
+            "uid": "21-2-21",
+            "theme": "black_white"
+        },
+        {
+            "opacity": 100,
+            "uid": "21-71-1",
+            "theme": "fab_bg"
+        },
+        {
+            "opacity": 100,
+            "uid": "21-71-3",
+            "theme": "black_white"
+        },
+        {
+            "opacity": 5,
+            "uid": "21-77-1",
+            "theme": "black_white"
+        },
+        {
+            "opacity": 100,
+            "uid": "21-78-1",
+            "theme": "primary"
+        },
+        {
+            "opacity": 100,
+            "uid": "21-78-2",
+            "theme": "primary"
+        },
+        {
+            "opacity": 100,
+            "uid": "24-E",
+            "theme": "primary_dark"
+        },
+        {
+            "opacity": 100,
+            "uid": "26-12-1",
+            "theme": "primary"
+        },
+        {
+            "opacity": 100,
+            "uid": "26-12-3",
+            "theme": "secondary"
+        },
+        {
+            "opacity": 100,
+            "uid": "26-17-29",
+            "theme": "primary"
+        },
+        {
+            "opacity": 100,
+            "uid": "26-20-5",
+            "theme": "black_white"
+        },
+        {
+            "opacity": 100,
+            "uid": "26-21-1",
+            "theme": "contents_box_bg"
+        },
+        {
+            "opacity": 100,
+            "uid": "26-6-1-M",
+            "theme": "background"
+        },
+        {
+            "opacity": 100,
+            "uid": "26-6-3-M",
+            "theme": "background"
+        },
+        {
+            "opacity": 100,
+            "uid": "26-7-1",
+            "theme": "background"
+        },
+        {
+            "opacity": 100,
+            "uid": "26-7-2",
+            "theme": "primary"
+        },
+        {
+            "opacity": 100,
+            "uid": "26-7-3",
+            "theme": "primary"
+        },
+        {
+            "opacity": 100,
+            "uid": "27-71-1",
+            "theme": "white_black"
+        },
+        {
+            "opacity": 100,
+            "uid": "29-10-15",
+            "theme": "black_white"
+        },
+        {
+            "opacity": 80,
+            "uid": "4-1-1",
+            "theme": "background"
+        },
+        {
+            "opacity": 100,
+            "uid": "4-11",
+            "theme": "black_white"
+        },
+        {
+            "opacity": 60,
+            "uid": "4-13-2",
+            "theme": "primary"
+        },
+        {
+            "opacity": 100,
+            "uid": "4-2-3",
+            "theme": "quickpanel_btn_on"
+        },
+        {
+            "opacity": 100,
+            "uid": "4-21-9",
+            "theme": "black_white"
+        },
+        {
+            "opacity": 100,
+            "uid": "4-8-1",
+            "theme": "#ffffff"
+        },
+        {
+            "opacity": 100,
+            "uid": "4-8-2",
+            "theme": "#ffffff"
+        },
+        {
+            "opacity": 100,
+            "uid": "4-8-5",
+            "theme": "secondary"
+        },
+        {
+            "opacity": 20,
+            "uid": "4-8-6",
+            "theme": "black_white"
+        },
+        {
+            "opacity": 10,
+            "uid": "44-18-1",
+            "theme": "primary"
+        },
+        {
+            "opacity": 100,
+            "uid": "54-2-4",
+            "theme": "primary"
+        },
+        {
+            "opacity": 100,
+            "uid": "54-6-2",
+            "theme": "background"
+        },
+        {
+            "opacity": 100,
+            "uid": "55-1-4",
+            "theme": "primary_dark"
+        },
+        {
+            "opacity": 100,
+            "uid": "55-1-9",
+            "theme": "primary_dark"
+        },
+        {
+            "opacity": 100,
+            "uid": "55-7-5",
+            "theme": "keyboard_bg"
+        },
+        {
+            "opacity": 100,
+            "uid": "55-7-6-1",
+            "theme": "primary_dark"
+        },
+        {
+            "opacity": 30,
+            "uid": "61-1-1",
+            "theme": "#FFFFFF"
+        },
+        {
+            "opacity": 100,
+            "uid": "62-2-2",
+            "theme": "fab_bg"
+        },
+        {
+            "opacity": 100,
+            "uid": "62-2-4",
+            "theme": "primary"
+        },
+        {
+            "opacity": 100,
+            "uid": "62-20-8",
+            "theme": "white_black"
+        },
+        {
+            "opacity": 5,
+            "uid": "62-20-8-1",
+            "theme": "black_white"
+        },
+        {
+            "opacity": 100,
+            "uid": "7-1-2",
+            "theme": "lock_white_1"
+        },
+        {
+            "opacity": 100,
+            "uid": "7-1-2-B",
+            "theme": "lock_black_1"
+        },
+        {
+            "opacity": 100,
+            "uid": "7-1-6",
+            "theme": "lock_white_1"
+        },
+        {
+            "opacity": 100,
+            "uid": "7-1-6-B",
+            "theme": "lock_black_1"
+        },
+        {
+            "opacity": 100,
+            "uid": "7-24-1",
+            "theme": "lock_white_1"
+        },
+        {
+            "opacity": 100,
+            "uid": "7-24-1-B",
+            "theme": "lock_black_1"
+        },
+        {
+            "opacity": 100,
+            "uid": "7-24-2",
+            "theme": "lock_white_1"
+        },
+        {
+            "opacity": 100,
+            "uid": "7-24-2-B",
+            "theme": "lock_black_1"
+        },
+        {
+            "opacity": 100,
+            "uid": "7-24-3",
+            "theme": "lock_white_1"
+        },
+        {
+            "opacity": 100,
+            "uid": "7-24-3-B",
+            "theme": "lock_black_1"
+        },
+        {
+            "opacity": 100,
+            "uid": "7-25-1",
+            "theme": "lock_white_1"
+        },
+        {
+            "opacity": 100,
+            "uid": "7-25-1-B",
+            "theme": "lock_black_1"
+        },
+        {
+            "opacity": 100,
+            "uid": "7-25-2",
+            "theme": "lock_white_1"
+        },
+        {
+            "opacity": 100,
+            "uid": "7-25-2-B",
+            "theme": "lock_black_1"
+        },
+        {
+            "opacity": 100,
+            "uid": "7-25-3",
+            "theme": "lock_white_1"
+        },
+        {
+            "opacity": 100,
+            "uid": "7-25-3-B",
+            "theme": "lock_black_1"
+        },
+        {
+            "opacity": 100,
+            "uid": "7-25-4",
+            "theme": "lock_white_1"
+        },
+        {
+            "opacity": 100,
+            "uid": "7-25-4-B",
+            "theme": "lock_black_1"
+        },
+        {
+            "opacity": 100,
+            "uid": "7-25-5",
+            "theme": "lock_white_1"
+        },
+        {
+            "opacity": 100,
+            "uid": "7-25-5-B",
+            "theme": "lock_black_1"
+        },
+        {
+            "opacity": 100,
+            "uid": "7-26-1",
+            "theme": "lock_white_1"
+        },
+        {
+            "opacity": 100,
+            "uid": "7-26-1-B",
+            "theme": "lock_black_1"
+        },
+        {
+            "opacity": 100,
+            "uid": "7-3-1",
+            "theme": "lock_white_1"
+        },
+        {
+            "opacity": 100,
+            "uid": "7-3-1-B",
+            "theme": "lock_black_1"
+        },
+        {
+            "opacity": 100,
+            "uid": "7-3-6",
+            "theme": "lock_black_1"
+        },
+        {
+            "opacity": 100,
+            "uid": "7-3-6-B",
+            "theme": "lock_white_1"
+        },
+        {
+            "opacity": 100,
+            "uid": "7-6-3",
+            "theme": "lock_white_2"
+        },
+        {
+            "opacity": 100,
+            "uid": "7-6-3-B",
+            "theme": "lock_black_2"
+        },
+        {
+            "opacity": 100,
+            "uid": "7-6-5",
+            "theme": "lock_white_2"
+        },
+        {
+            "opacity": 100,
+            "uid": "7-6-5-B",
+            "theme": "lock_black_2"
+        },
+        {
+            "opacity": 100,
+            "uid": "7-8-2",
+            "theme": "lock_white_2"
+        },
+        {
+            "opacity": 100,
+            "uid": "7-8-2-B",
+            "theme": "lock_black_2"
+        },
+        {
+            "opacity": 100,
+            "uid": "72-2-2",
+            "theme": "#FDFDFD"
+        },
+        {
+            "opacity": 100,
+            "uid": "75-1-1",
+            "theme": "keyboard_bg"
+        },
+        {
+            "opacity": 100,
+            "uid": "75-1-5",
+            "theme": "true"
+        },
+        {
+            "opacity": 100,
+            "uid": "75-11-1",
+            "theme": "toolbar_bg"
+        },
+        {
+            "opacity": 100,
+            "uid": "75-11-3",
+            "theme": "keyboard_function"
+        },
+        {
+            "opacity": 100,
+            "uid": "75-11-7",
+            "theme": "keyboard_function"
+        },
+        {
+            "opacity": 100,
+            "uid": "75-13-4",
+            "theme": "keyboard_function"
+        },
+        {
+            "opacity": 100,
+            "uid": "75-13-5",
+            "theme": "keyboard_press"
+        },
+        {
+            "opacity": 100,
+            "uid": "75-13-7",
+            "theme": "keyboard_function"
+        },
+        {
+            "opacity": 100,
+            "uid": "75-14-6",
+            "theme": "keyboard_function"
+        },
+        {
+            "opacity": 100,
+            "uid": "75-2-3",
+            "theme": "keyboard_function"
+        },
+        {
+            "opacity": 100,
+            "uid": "75-2-4",
+            "theme": "keyboard_press"
+        },
+        {
+            "opacity": 100,
+            "uid": "75-21-1",
+            "theme": "keyboard_function"
+        },
+        {
+            "opacity": 100,
+            "uid": "75-24-3",
+            "theme": "keyboard_function"
+        },
+        {
+            "opacity": 100,
+            "uid": "75-3-2",
+            "theme": "#252525"
+        },
+        {
+            "opacity": 100,
+            "uid": "75-30-2",
+            "theme": "true"
+        },
+        {
+            "opacity": 100,
+            "uid": "75-4-3",
+            "theme": "primary_dark"
+        },
+        {
+            "opacity": 100,
+            "uid": "75-5-1",
+            "theme": "#FDFDFD"
+        },
+        {
+            "opacity": 100,
+            "uid": "75-5-3",
+            "theme": "#252525"
+        },
+        {
+            "opacity": 100,
+            "uid": "75-5-5",
+            "theme": "primary"
+        },
+        {
+            "opacity": 100,
+            "uid": "75-5-7",
+            "theme": "#FAFAFA"
+        },
+        {
+            "opacity": 100,
+            "uid": "8-14-3",
+            "theme": "black_white"
+        },
+        {
+            "opacity": 30,
+            "uid": "8-18-1",
+            "theme": "#FFFFFF"
+        },
+        {
+            "opacity": 100,
+            "uid": "8-19-12",
+            "theme": "black_white"
+        },
+        {
+            "opacity": 30,
+            "uid": "8-20-10",
+            "theme": "#FFFFFF"
+        },
+        {
+            "opacity": 80,
+            "uid": "8-6-2",
+            "theme": "fold_bg_1"
+        },
+        {
+            "opacity": 90,
+            "uid": "8-6-3",
+            "theme": "lock_white_2"
+        },
+        {
+            "opacity": 90,
+            "uid": "8-6-4",
+            "theme": "primary"
+        },
+        {
+            "opacity": 90,
+            "uid": "8-6-5",
+            "theme": "fold_bg_3"
+        },
+        {
+            "opacity": 90,
+            "uid": "8-6-6",
+            "theme": "fold_bg_4"
+        },
+        {
+            "opacity": 85,
+            "uid": "8-7-1",
+            "theme": "quickoptions_bg_1"
+        },
+        {
+            "opacity": 95,
+            "uid": "8-7-2",
+            "theme": "quickoptions_bg_2"
+        },
+        {
+            "opacity": 100,
+            "uid": "84-3-5",
+            "theme": "black_white"
+        },
+        {
+            "opacity": 10,
+            "uid": "89-4-7",
+            "theme": "secondary"
+        },
+        {
+            "opacity": 10,
+            "uid": "89-5-1",
+            "theme": "secondary"
+        },
+        {
+            "opacity": 80,
+            "uid": "89-7-1",
+            "theme": "background"
+        },
+        {
+            "opacity": 10,
+            "uid": "9-18-1",
+            "theme": "primary"
+        },
+        {
+            "opacity": 100,
+            "uid": "9-3-3-1",
+            "theme": "primary_dark"
+        },
+        {
+            "opacity": 100,
+            "uid": "999-9-15",
+            "theme": "black_white"
+        },
+        {
+            "opacity": 100,
+            "uid": "9_3-1-3",
+            "theme": "Primary"
+        }
+    ]
+}

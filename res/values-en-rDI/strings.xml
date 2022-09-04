@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="defaultVoiceMailAlphaTag">IDS_CALL_POP_VOICE_MAIL</string>
+    <string name="headset">IDS_IDLE_BODY_HEADSET</string>
+    <string name="multisound_app_uninstalled_toast">DREAM_CMV_TPOP_SELECTED_APP_UNINSTALLED_PS_TURNED_OFF</string>
+    <string name="multisound_change_output_device">DREAM_ST_PHEADER_CHANGE_AUDIO_OUTPUT_DEVICE</string>
+    <string name="multisound_headup_contents">DREAM_ST_POP_THE_AUDIO_DEVICE_YOU_SELECTED_FOR_THIS_APP_IS_THE_SAME_AS_THE_CURRENT_AUDIO_OUTPUT_DEVICE_FOR_YOUR_PHONE_MSG</string>
+    <string name="multisound_hun_change">IDS_ST_SK3_OK</string>
+    <string name="multisound_hun_close">IDS_COM_POP_CLOSE</string>
+    <string name="multisound_hun_contents">DREAM_ST_BODY_THE_AUDIO_DEVICE_YOU_SELECTED_FOR_P1SS_HP2SS_IS_THE_SAME_AS_YOUR_MAIN_AUDIO_DEVICE_CHANGE_YOUR_MAIN_AUDIO_DEVICE_TO_P3SS_TO_SEPARATE_SOUND_FOR_THIS_APP</string>
+    <string name="multisound_hun_title">DREAM_CMV_PHEADER_CHANGE_MAIN_AUDIO_OUTPUT_DEVICE_Q</string>
+    <string name="multisound_settings_button">IDS_IDLE_BUTTON_SETTINGS_M_DETAIL_ABB2</string>
+    <string name="multisound_sound_via_bluetooth">DREAM_CMV_SBODY_PS_SOUND_IS_PLAYING_ON_A_BLUETOOTH_AUDIO_DEVICE_TAP_HERE_TO_TURN_THIS_OFF</string>
+    <string name="multisound_sound_via_headphone">DREAM_CMV_SBODY_PS_SOUND_IS_PLAYING_THROUGH_YOUR_HEADPHONES_TAP_HERE_TO_TURN_THIS_OFF</string>
+    <string name="multisound_sound_via_phone_speaker">DREAM_CMV_SBODY_PS_SOUND_IS_PLAYING_THROUGH_YOUR_PHONE_SPEAKER_TAP_HERE_TO_TURN_THIS_OFF</string>
+    <string name="multisound_sound_via_usb_audio">DREAM_CMV_SBODY_PS_SOUND_IS_PLAYING_THROUGH_YOUR_USB_AUDIO_DEVICE_TAP_HERE_TO_TURN_THIS_OFF</string>
+    <string name="multisound_title">DREAM_CMV_HEADER_SEPARATE_APP_SOUND</string>
+    <string name="multisound_turn_off_multisound">IDS_ST_BUTTON_TURN_OFF</string>
+    <string name="my_device">DREAM_NFC_POP_MY_PHONE</string>
+    <string name="recording_fail">DREAM_IDLE_BODY_CANT_USE_MIC_IN_P1SS_WHILE_ITS_BEING_USED_IN_P2SS</string>
+    <string name="recording_popup">DREAM_VOIP_TPOP_PS_IS_USING_THE_MICROPHONE_CHN</string>
+    <string name="sec_ringtone_category_calm">DREAM_ST_HEADER_CALM_M_RINGTONE</string>
+    <string name="sec_ringtone_category_custom">DREAM_ST_HEADER_CUSTOM_M_RINGTONE</string>
+    <string name="sec_ringtone_category_fun">DREAM_ST_HEADER_FUN_M_RINGTONE</string>
+    <string name="sec_ringtone_category_galaxy">DREAM_ST_HEADER_GALAXY_M_RINGTONE</string>
+    <string name="sec_ringtone_category_open_theme">IDS_ST_OPT_CURRENT_THEMES_DEFAULT</string>
+    <string name="sec_ringtone_category_retro">DREAM_ST_HEADER_RETRO_M_RINGTONE</string>
+    <string name="sec_ringtone_silent">IDS_ST_BODY_SILENT</string>
+    <string name="ss_do_not_show_again_us">IDS_ST_BUTTON_DO_NOT_SHOW_AGAIN_ABB</string>
+</resources>

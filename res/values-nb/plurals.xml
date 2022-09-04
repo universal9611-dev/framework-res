@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="SDcardBlockUnmount_message">
+        <item quantity="other">Telefonen er ustabil fordi et SD-kort som hadde apper installert, ble fjernet. Telefonen starter på nytt om %d sekunder for å gå tilbake til normalt. Lagre eventuelle ulagrede data før telefonen starter på nytt.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Telefonen er ustabil fordi et SD-kort som hadde apper installert, ble fjernet. Telefonen starter på nytt om %d sekund for å gå tilbake til normalt. Lagre eventuelle ulagrede data før telefonen starter på nytt.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="SDcardBlockUnmount_title">
+        <item quantity="other">Telefon starter på nytt om %d sek</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Telefon starter på nytt om %d sekund</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="app_kills_content_v2_phone">
+        <item quantity="other">%d apper ble lukket automatisk fordi de gjorde telefonen for varm. Du kan åpne dem igjen etter at telefonen har kjølt seg ned.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d app ble lukket automatisk fordi den gjorde telefonen for varm. Du kan åpne den igjen etter at telefonen har kjølt seg ned.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="app_kills_content_v2_tablet">
+        <item quantity="other">%d apper ble lukket automatisk fordi de gjorde nettbrettet for varmt. Du kan åpne dem igjen etter at nettbrettet har kjølt seg ned.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d app ble lukket automatisk fordi den gjorde nettbrettet for varmt. Du kan åpne den igjen etter at nettbrettet har kjølt seg ned.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="app_kills_title_v2">
+        <item quantity="other">%d apper ble lukket</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d app ble lukket</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="autofill_picker_some_suggestions">
+        <item quantity="other">%1$s forslag til autofyll</item>
+        <item quantity="one">Ett forslag til autofyll</item>
+    </plurals>
+    <plurals name="bugreport_countdown">
+        <item quantity="other">Tar skjermdump for feilrapporten om %d sekunder.</item>
+        <item quantity="one">Tar skjermdump for feilrapporten om %d sekund.</item>
+    </plurals>
+    <plurals name="dex_max_count_text">
+        <item quantity="other">Kan ikke vise mer enn %d apper på skjermen samtidig. Den eldste appen er minimert.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Kan ikke vise mer enn %d app på skjermen samtidig. Den eldste appen er minimert.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="duration_days_relative">
+        <item quantity="other">for %d dager siden</item>
+        <item quantity="one">for %d dag siden</item>
+    </plurals>
+    <plurals name="duration_days_relative_future">
+        <item quantity="other">om %d dager</item>
+        <item quantity="one">om %d dag</item>
+    </plurals>
+    <plurals name="duration_days_shortest">
+        <item quantity="other">%d d</item>
+        <item quantity="one">%d d</item>
+    </plurals>
+    <plurals name="duration_days_shortest_future">
+        <item quantity="other">om %d d</item>
+        <item quantity="one">om %d d</item>
+    </plurals>
+    <plurals name="duration_hours_relative">
+        <item quantity="other">for %d timer siden</item>
+        <item quantity="one">for %d time siden</item>
+    </plurals>
+    <plurals name="duration_hours_relative_future">
+        <item quantity="other">om %d timer</item>
+        <item quantity="one">om %d time</item>
+    </plurals>
+    <plurals name="duration_hours_shortest">
+        <item quantity="other">%d t</item>
+        <item quantity="one">%d t</item>
+    </plurals>
+    <plurals name="duration_hours_shortest_future">
+        <item quantity="other">om %d t</item>
+        <item quantity="one">om %d t</item>
+    </plurals>
+    <plurals name="duration_minutes_relative">
+        <item quantity="other">for %d minutter siden</item>
+        <item quantity="one">for %d minutt siden</item>
+    </plurals>
+    <plurals name="duration_minutes_relative_future">
+        <item quantity="other">om %d minutter</item>
+        <item quantity="one">om %d minutt</item>
+    </plurals>
+    <plurals name="duration_minutes_shortest">
+        <item quantity="other">%d m</item>
+        <item quantity="one">%d m</item>
+    </plurals>
+    <plurals name="duration_minutes_shortest_future">
+        <item quantity="other">om %d m</item>
+        <item quantity="one">om %d m</item>
+    </plurals>
+    <plurals name="duration_years_relative">
+        <item quantity="other">for %d år siden</item>
+        <item quantity="one">for %d år siden</item>
+    </plurals>
+    <plurals name="duration_years_relative_future">
+        <item quantity="other">om %d år</item>
+        <item quantity="one">om %d år</item>
+    </plurals>
+    <plurals name="duration_years_shortest">
+        <item quantity="other">%d år</item>
+        <item quantity="one">%d år</item>
+    </plurals>
+    <plurals name="duration_years_shortest_future">
+        <item quantity="other">om %d år</item>
+        <item quantity="one">om %d år</item>
+    </plurals>
+    <plurals name="file_count">
+        <item quantity="other">%1$s + %2$d filer</item>
+        <item quantity="one">%1$s + %2$d fil</item>
+    </plurals>
+    <plurals name="hot_key_guide_message">
+        <item quantity="other">Åpne appen du vil tildele, og trykk på og hold apptasten i %d sekunder.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Åpne appen du vil tildele, og trykk på og hold apptasten i %d sekund.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_attempts_countdown">
+        <item quantity="other">Prøv på nytt om %d sekunder.</item>
+        <item quantity="one">Prøv på nytt om ett sekund.</item>
+    </plurals>
+    <plurals name="last_num_days">
+        <item quantity="other">De siste %d dagene</item>
+        <item quantity="one">Den siste %d dagen</item>
+    </plurals>
+    <plurals name="ltb_warning_content_v2_phone">
+        <item quantity="other">%1$s gjør at telefonen blir overopphetet. Den lukkes automatisk om %2$d sekunder.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%1$s gjør at telefonen blir overopphetet. Den lukkes automatisk om %2$d sekund.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="ltb_warning_content_v2_tablet">
+        <item quantity="other">%1$s gjør at nettbrettet blir overopphetet. Den lukkes automatisk om %2$d sekunder.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%1$s gjør at nettbrettet blir overopphetet. Den lukkes automatisk om %2$d sekund.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="matches_found">
+        <item quantity="other">%1$d av %2$d</item>
+        <item quantity="one">1 kamp</item>
+    </plurals>
+    <plurals name="mdo_notification_description">
+        <item quantity="other">%d apper bruker mobildata selv når telefonen er koblet til Wi-Fi.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d app bruker mobildata selv når telefonen er koblet til Wi-Fi.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="overheat_warning_content_v2_phone">
+        <item quantity="other">%1$s gjør at telefonen blir overopphetet. Du kan lukke den nå eller vente til den lukkes automatisk om %2$d sekunder.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%1$s gjør at telefonen blir overopphetet. Du kan lukke den nå eller vente til den lukkes automatisk om %2$d sekund.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="overheat_warning_content_v2_tablet">
+        <item quantity="other">%1$s gjør at nettbrettet blir overopphetet. Du kan lukke den nå eller vente til den lukkes automatisk om %2$d sekunder.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%1$s gjør at nettbrettet blir overopphetet. Du kan lukke den nå eller vente til den lukkes automatisk om %2$d sekund.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="pinpuk_attempts">
+        <item quantity="other">Du har %d forsøk igjen før SIM-kortet låses.</item>
+        <item quantity="one">Du har %d forsøk igjen før SIM-kortet låses.</item>
+    </plurals>
+    <plurals name="restr_pin_countdown">
+        <item quantity="other">Prøv på nytt om %d sekunder</item>
+        <item quantity="one">Prøv på nytt om 1 sekund</item>
+    </plurals>
+    <plurals name="selected_count">
+        <item quantity="other">%1$d er valgt</item>
+        <item quantity="one">%1$d er valgt</item>
+    </plurals>
+    <plurals name="sem_chooser_preview_items">
+        <item quantity="other">%d elementer</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d element</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="ssl_ca_cert_warning">
+        <item quantity="other">Sertifiseringsinstansene er installert</item>
+        <item quantity="one">Sertifiseringsinstansen er installert</item>
+    </plurals>
+    <plurals name="zen_mode_duration_hours">
+        <item quantity="other">%d timer</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d time</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="zen_mode_duration_hours_short">
+        <item quantity="other">I %d timer</item>
+        <item quantity="one">I én time</item>
+    </plurals>
+    <plurals name="zen_mode_duration_hours_summary">
+        <item quantity="other">I %1$d timer (til %2$s)</item>
+        <item quantity="one">I 1 time (til %2$s)</item>
+    </plurals>
+    <plurals name="zen_mode_duration_hours_summary_short">
+        <item quantity="other">I %1$d timer (til %2$s)</item>
+        <item quantity="one">I én time (til %2$s)</item>
+    </plurals>
+    <plurals name="zen_mode_duration_minutes">
+        <item quantity="other">%d minutter</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d minutt</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="zen_mode_duration_minutes_short">
+        <item quantity="other">I %d minutter</item>
+        <item quantity="one">I ett minutt</item>
+    </plurals>
+    <plurals name="zen_mode_duration_minutes_summary">
+        <item quantity="other">I %1$d minutter (til %2$s)</item>
+        <item quantity="one">I 1 minutt (til %2$s)</item>
+    </plurals>
+    <plurals name="zen_mode_duration_minutes_summary_short">
+        <item quantity="other">I %1$d minutter (til %2$s)</item>
+        <item quantity="one">I ett minutt (til %2$s)</item>
+    </plurals>
+</resources>

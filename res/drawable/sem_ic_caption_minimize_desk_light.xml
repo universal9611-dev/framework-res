@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector android:tint="@color/sem_decor_caption_icon_color_desk_light" android:height="@dimen/sem_decor_caption_icon_size_desk" android:width="@dimen/sem_decor_caption_icon_size_desk" android:viewportWidth="@dimen/sem_decor_caption_icon_viewport_size_desk" android:viewportHeight="@dimen/sem_decor_caption_icon_viewport_size_desk"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:translateX="8.0" android:translateY="31.0">
+        <path android:fillColor="@color/white" android:pathData="M22.7143 0L1.28571 0C0.930674 1.19209e-07 0.627628 0.146447 0.376577 0.43934C0.125526 0.732233 1.02179e-07 1.08579 0 1.5C1.02179e-07 1.91421 0.125526 2.26777 0.376577 2.56066C0.627628 2.85355 0.930674 3 1.28571 3L22.7143 3C23.0693 3 23.3724 2.85355 23.6234 2.56066C23.8745 2.26777 24 1.91421 24 1.5C24 1.08579 23.8745 0.732233 23.6234 0.43934C23.3724 0.146447 23.0693 1.19209e-07 22.7143 0L22.7143 0Z" />
+    </group>
+</vector>
