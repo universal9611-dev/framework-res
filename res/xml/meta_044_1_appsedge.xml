@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ThemeMetaData FormatVersion="1.3" GuideVersion="6.1">
+    <AppMetaData Name="AppsEdge" TargetApi="21" TargetPackageName="com.samsung.android.app.appsedge" VersionCode="1" VersionName="">
+        <Property Comment="Status bar background color" DefaultValue="#fff2f2f2" DestAttribName="apps_edge_settings_status_bar_color" DestQualifiers="" UID="44_1-S-1" ValueRef="1-51" ValueType="Color" />
+        <Property Comment="Status bar icon color" DefaultValue="true" DestAttribName="use_light_status_bar" UID="44_1-S-2" ValueRef="1-51-1" ValueType="Bool" />
+        <Property Comment="App label text color" DefaultValue="#ff252525" DestAttribName="app_label_text_color" DestQualifiers="" UID="44_1-1-1" ValueRef="1-3-1" ValueType="Color" />
+        <Property Comment="About Page Title" DefaultValue="#ff252525" DestAttribName="settings_app_info_title" DestQualifiers="" UID="44_1-1-3" ValueRef="1-1-3" ValueType="Color" />
+        <Property Comment="Progressbar Dialog" DefaultValue="#ff636363" DestAttribName="settings_app_info_sub_title" DestQualifiers="" UID="44_1-1-4" ValueRef="1-1-4" ValueType="Color" />
+        <Property Comment="Multi Window Apps text color" DefaultValue="#ff858585" DestAttribName="pair_app_text_color" DestQualifiers="" UID="44_1-2-3" ValueRef="1-19-2" ValueType="Color" />
+        <Property Comment="Multi Window Apps dot line color" DefaultValue="#ff252525" DestAttribName="title_text_color" DestQualifiers="" UID="44_1-2-4" ValueRef="1-19-2" ValueType="Color" />
+        <Property Comment="Close Folder Shape" DefaultValue="0" DestAttribName="close_folder_shape" UID="44_1-3-1" ValueRef="8-6-1" ValueType="Integer" />
+        <Property Comment="Close Folder Shape BgColor 1" DefaultValue="#ffd9d9d9" DestAttribName="folder_colorPicker_color_gray" DestQualifiers="" UID="44_1-3-2" ValueRef="8-6-2" ValueType="Color" />
+        <Property Comment="Close Folder Shape BgColor 2" DefaultValue="#ff9ad1ff" DestAttribName="folder_colorPicker_color_blue" DestQualifiers="" UID="44_1-3-3" ValueRef="8-6-3" ValueType="Color" />
+        <Property Comment="Close Folder Shape BgColor 3" DefaultValue="#ff76e3ae" DestAttribName="folder_colorPicker_color_green" DestQualifiers="" UID="44_1-3-4" ValueRef="8-6-4" ValueType="Color" />
+        <Property Comment="Close Folder Shape BgColor 4" DefaultValue="#ffeebd7e" DestAttribName="folder_colorPicker_color_orange" DestQualifiers="" UID="44_1-3-5" ValueRef="8-6-5" ValueType="Color" />
+        <Property Comment="Close Folder Shape BgColor 5" DefaultValue="#fff3e18d" DestAttribName="folder_colorPicker_color_yellow" DestQualifiers="" UID="44_1-3-6" ValueRef="8-6-6" ValueType="Color" />
+        <Property Comment="Close Folder BgIcon1" DefaultValue="" DestAttribName="homescreen_ic_folder_default" DestQualifiers="" UID="44_1-3-7" ValueRef="8-6-7" ValueType="BgImage" />
+        <Property Comment="Selected item list background" DefaultValue="#ffeeeeee" DestAttribName="selected_item_list_background" DestQualifiers="" UID="44_1-4-1" ValueRef="1-18-1" ValueType="Color" />
+        <Property Comment="Selected item list drag outline color" DefaultValue="#264a4a4a" DestAttribName="selected_item_list_outline_color" DestQualifiers="" Opacity="50" UID="44_1-4-3" ValueRef="1-3-1" ValueType="Color" />
+        <Property Comment="Badge icon tint color" DefaultValue="#fff56a0d" DestAttribName="badge_bg_color" DestQualifiers="" UID="44_1-5-1" ValueRef="1-33-1" ValueType="Color" />
+        <Property Comment="Badge icon: Badge BG image, should be a 9 patch image" DefaultValue="" DestAttribName="counter_bubble" DestQualifiers="xxxhdpi" POption="NinePatch" UID="44_1-5-2" ValueRef="1-33-2" ValueType="BgImage" />
+        <Property Comment="Badge text color" DefaultValue="#fffafafa" DestAttribName="badge_text_color" DestQualifiers="" UID="44_1-5-3" ValueRef="1-33-3" ValueType="TextColor" />
+        <Property Comment="Search Icon color" DefaultValue="#ff252525" DestAttribName="settings_search_icon_color" DestQualifiers="" UID="44_1-6-1" ValueRef="1-1-3" ValueType="Color" />
+        <Property Comment="Search view BG color" DefaultValue="#0d000000" DestAttribName="settings_search_bar_background_color" DestQualifiers="" UID="44_1-7-1" ValueRef="1-59-1" ValueType="Color" />
+        <Property Comment="Search bar hint text color" DefaultValue="#ff636363" DestAttribName="search_bar_hint_text_color" DestQualifiers="" UID="44_1-7-2" ValueRef="1-59-4" ValueType="Color" />
+        <Property Comment="Search bar input text color" DefaultValue="#ff252525" DestAttribName="search_bar_input_text_color" DestQualifiers="" UID="44_1-7-3" ValueRef="1-59-3" ValueType="Color" />
+        <Property Comment="Search bar icon tint color" DefaultValue="#ff252525" DestAttribName="search_bar_icon_tint_color" DestQualifiers="" UID="44_1-7-4" ValueRef="1-59-8" ValueType="Color" />
+        <Property Comment="Input primary text color" DefaultValue="#ff0072de" DestAttribName="input_primary_text_color" DestQualifiers="" UID="44_1-7-5" ValueRef="1-59-9" ValueType="Color" />
+        <Property Comment="spinner pop up background color" DefaultValue="#ccfcfcfc" DestAttribName="spinner_pop_up_background_color" DestQualifiers="" POption="AlwaysOverriden" UID="44_1-8-1" ValueRef="1-9-1" ValueType="Color" />
+        <Property Comment="spinner pop up background" DefaultValue="" DestAttribName="spinner_pop_up_background" DestQualifiers="xxxhdpi" ImageSize="20X20" POption="FIXEDSIZE" UID="44_1-8-2" ValueRef="1-10-1-1" ValueType="BgImage" />
+        <Property Comment="spinner pop up background stroke color" DefaultValue="#26cccccc" DestAttribName="spinner_pop_up_background_stroke_color" DestQualifiers="" POption="AlwaysOverriden" UID="44_1-8-3" ValueRef="1-C" ValueType="Color" />
+        <Property Comment="all apps spinner dropdown text color" DefaultValue="#ff000000" DestAttribName="all_apps_spinner_dropdown_text_color" DestQualifiers="" POption="AlwaysOverriden" UID="44_1-8-4" ValueRef="1-9-6" ValueType="Color" />
+        <Property Comment="dropdown check mark" DefaultValue="" DestAttribName="dropdown_check_mark" DestQualifiers="xxxhdpi" ImageSize="20X20" POption="FIXEDSIZE" UID="44_1-8-5" ValueRef="1-10-10" ValueType="BgImage" />
+        <Property Comment="all apps spinner dropdown cheked text color" DefaultValue="#ff3e91ff" DestAttribName="all_apps_spinner_dropdown_checked_text_color" DestQualifiers="" POption="AlwaysOverriden" UID="44_1-8-6" ValueRef="24-E" ValueType="Color" />
+        <Property Comment="all apps search cursor color" DefaultValue="#ff0381fe" DestAttribName="all_apps_search_cursor_color" DestQualifiers="" POption="AlwaysOverriden" UID="44_1-9-1" ValueRef="1-A" ValueType="Color" />
+        <Property Comment="Apps Edge settings background color" DefaultValue="#fff0f0f0" DestAttribName="apps_edge_settings_background_color" DestQualifiers="" UID="44_1-10-1" ValueRef="1-1-1" ValueType="Color" />
+        <Property Comment="Empty slot icon tint color" DefaultValue="#264a4a4a" DestAttribName="edge_panel_empty_slot_tint_color" DestQualifiers="" Opacity="50" POption="AlwaysOverriden" UID="44_1-11-1" ValueRef="1-3-1" ValueType="TintColor" />
+        <Property Comment="Apps Edge Button background color" DefaultValue="#0c000000" DestAttribName="delete_button_background_color" DestQualifiers="" POption="AlwaysOverriden" UID="44_1-12-1" ValueRef="1-7-1" ValueType="Color" />
+        <Property Comment="Apps Edge button text color" DefaultValue="#ff252525" DestAttribName="delete_button_text_color" DestQualifiers="" POption="AlwaysOverriden" UID="44_1-12-2" ValueRef="1-7-2" ValueType="Color" />
+        <Property Comment="Apps Edge button ripple color" DefaultValue="#28000000" DestAttribName="delete_button_ripple_color" DestQualifiers="" POption="AlwaysOverriden" UID="44_1-13-1" ValueRef="1-52-2" ValueType="Color" />
+        <Property Comment="More icon tint color" DefaultValue="#fff56a0d" DestAttribName="settings_more_button_tint_color" DestQualifiers="" UID="44_1-14-1" ValueRef="1-11-1" ValueType="Color" />
+        <Property Comment="Dialog sub Title text color" DefaultValue="#ff909090" DestAttribName="settings_dialog_sub_header_title_text_color" DestQualifiers="" UID="44_1-14-2" ValueRef="1-19-3" ValueType="TextColor" />
+        <Property Comment="Dialog divider color" DefaultValue="#ff979797" DestAttribName="settings_dialog_divider_color" DestQualifiers="" UID="44_1-14-3" ValueRef="1-19-4" ValueType="Color" />
+        <Property Comment="Dialog list text color" DefaultValue="#ff252525" DestAttribName="settings_dialog_list_text_color" DestQualifiers="" UID="44_1-14-4" ValueRef="1-9-6" ValueType="TextColor" />
+        <Property Comment="Dialog list secondary text color" DefaultValue="#ff909090" DestAttribName="settings_dialog_list_secondary_text_color" DestQualifiers="" UID="44_1-14-5" ValueRef="1-9-7" ValueType="TextColor" />
+        <Property Comment="Apps Edge done button text color" DefaultValue="#ff0074d4" DestAttribName="apps_edge_button_text_color" DestQualifiers="" UID="44_1-15-1" ValueRef="1-12-4" ValueType="Color" />
+        <Property Comment="Apps Edge delete image tint color" DefaultValue="#ff454545" DestAttribName="apps_edge_image_button_tint_color" DestQualifiers="" UID="44_1-16-1" ValueRef="1-14-3" ValueType="TintColor" />
+        <Property Comment="Apps Edge delete button text color" DefaultValue="#ff636363" DestAttribName="apps_edge_image_button_text_color" DestQualifiers="" UID="44_1-16-2" ValueRef="1-14-3" ValueType="Color" />
+        <Property Comment="Apps Edge Button background color" DefaultValue="#0c000000" DestAttribName="app_pair_button_background_color" DestQualifiers="" POption="AlwaysOverriden" UID="44_1-17-1" ValueRef="1-7-1" ValueType="Color" />
+        <Property Comment="Apps Edge button text color" DefaultValue="#ff252525" DestAttribName="app_pair_button_text_color" DestQualifiers="" POption="AlwaysOverriden" UID="44_1-17-2" ValueRef="1-7-2" ValueType="Color" />
+        <Property Comment="Apps Edge button ripple color" DefaultValue="#28000000" DestAttribName="app_pair_button_ripple_color" DestQualifiers="" POption="AlwaysOverriden" UID="44_1-17-3" ValueRef="1-52-2" ValueType="Color" />
+        <Property Comment="App label text color" DefaultValue="#ff909090" DestAttribName="pair_app_text_color_1" DestQualifiers="" POption="AlwaysOverriden" UID="44_1-18-1" ValueRef="24-B" ValueType="Color" />
+        <Property Comment="Description text color" DefaultValue="#ff505050" DestAttribName="setting_description_text_color" DestQualifiers="" POption="AlwaysOverriden" UID="44_1-18-2" ValueRef="1-3-3" ValueType="Color" />
+        <Property Comment="sub header text color" DefaultValue="#ff252525" DestAttribName="pair_app_setting_list_text_color" DestQualifiers="" POption="AlwaysOverriden" UID="44_1-19-2" ValueRef="24-B" ValueType="Color" />
+        <Property Comment="dot line color" DefaultValue="#ff252525" DestAttribName="pair_app_setting_layout_sub_text_color_1" DestQualifiers="" POption="AlwaysOverriden" UID="44_1-19-3" ValueRef="24-B" ValueType="Color" />
+        <Property Comment="radio button on color" DefaultValue="#ff0381fe" DestAttribName="settings_dialog_radio_button_selected_color" DestQualifiers="" POption="AlwaysOverriden" UID="44_1-20-1" ValueRef="1-4-1" ValueType="Color" />
+        <Property Comment="radio button off color" DefaultValue="#ff8c8c8c" DestAttribName="settings_dialog_radio_button_color" DestQualifiers="" POption="AlwaysOverriden" UID="44_1-20-2" ValueRef="1-4-2" ValueType="Color" />
+    </AppMetaData>
+</ThemeMetaData>

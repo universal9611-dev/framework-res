@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector android:height="@dimen/sem_multi_split_menu_icon_size" android:width="@dimen/sem_multi_split_menu_icon_size" android:viewportWidth="@dimen/sem_multi_split_menu_icon_viewport_size" android:viewportHeight="@dimen/sem_multi_split_menu_icon_viewport_size"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:translateX="4.164501" android:translateY="4.1660004">
+        <path android:fillColor="@color/sem_multi_split_menu_icon_color_dark" android:pathData="@string/sem_multi_split_menu_icon_path_maximize" />
+    </group>
+</vector>

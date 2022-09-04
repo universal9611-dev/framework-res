@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="SDcardBlockUnmount_message">
+        <item quantity="other">إن هاتفك غير ثابت بسبب إزالة بطاقة SD تم تثبيت تطبيقات عليها. ستتم إعادة تشغيل هاتفك خلال %d ثانية حتى يستأنف أداءه المعتاد. قم بحفظ أي بيانات غير محفوظة قبل إعادة تشغيل الهاتف.</item>
+        <item quantity="zero">إن هاتفك غير ثابت بسبب إزالة بطاقة SD تم تثبيت تطبيقات عليها. ستتم إعادة تشغيل هاتفك خلال %d ثانية حتى يستأنف أداءه المعتاد. قم بحفظ أي بيانات غير محفوظة قبل إعادة تشغيل الهاتف.</item>
+        <item quantity="one">إن هاتفك غير ثابت بسبب إزالة بطاقة SD تم تثبيت تطبيقات عليها. ستتم إعادة تشغيل هاتفك خلال ثانية واحدة حتى يستأنف أداءه المعتاد. قم بحفظ أي بيانات غير محفوظة قبل إعادة تشغيل الهاتف.</item>
+        <item quantity="two">إن هاتفك غير ثابت بسبب إزالة بطاقة SD تم تثبيت تطبيقات عليها. ستتم إعادة تشغيل هاتفك خلال ثانيتَين حتى يستأنف أداءه المعتاد. قم بحفظ أي بيانات غير محفوظة قبل إعادة تشغيل الهاتف.</item>
+        <item quantity="few">إن هاتفك غير ثابت بسبب إزالة بطاقة SD تم تثبيت تطبيقات عليها. ستتم إعادة تشغيل هاتفك خلال %d ثوانٍ حتى يستأنف أداءه المعتاد. قم بحفظ أي بيانات غير محفوظة قبل إعادة تشغيل الهاتف.</item>
+        <item quantity="many">إن هاتفك غير ثابت بسبب إزالة بطاقة SD تم تثبيت تطبيقات عليها. ستتم إعادة تشغيل هاتفك خلال %d ثانية حتى يستأنف أداءه المعتاد. قم بحفظ أي بيانات غير محفوظة قبل إعادة تشغيل الهاتف.</item>
+    </plurals>
+    <plurals name="SDcardBlockUnmount_title">
+        <item quantity="other">ستتم إعادة تشغيل هاتفك خلال %d ثانية</item>
+        <item quantity="zero">ستتم إعادة تشغيل هاتفك خلال %d ثانية</item>
+        <item quantity="one">ستتم إعادة تشغيل هاتفك خلال ثانية واحدة</item>
+        <item quantity="two">ستتم إعادة تشغيل هاتفك خلال ثانيتَين</item>
+        <item quantity="few">ستتم إعادة تشغيل هاتفك خلال %d ثوانٍ</item>
+        <item quantity="many">ستتم إعادة تشغيل هاتفك خلال %d ثانية</item>
+    </plurals>
+    <plurals name="app_kills_content_v2_phone">
+        <item quantity="other">تم إغلاق %d تطبيق تلقائياً لأنها تسببت بارتفاع درجة حرارة هاتفك. يمكنك فتحها مجدداً في وقت لاحق بعد أن يبرد هاتفك.</item>
+        <item quantity="zero">تم إغلاق %d تطبيق تلقائياً لأنه تسبب بارتفاع درجة حرارة هاتفك. يمكنك فتحه مجدداً في وقت لاحق بعد أن يبرد هاتفك.</item>
+        <item quantity="one">تم إغلاق تطبيق واحد تلقائياً لأنه تسبب بارتفاع درجة حرارة هاتفك. يمكنك فتحه مجدداً في وقت لاحق بعد أن يبرد هاتفك.</item>
+        <item quantity="two">تم إغلاق تطبيقَين تلقائياً لأنهما تسببا بارتفاع درجة حرارة هاتفك. يمكنك فتحهما مجدداً في وقت لاحق بعد أن يبرد هاتفك.</item>
+        <item quantity="few">تم إغلاق %d تطبيقات تلقائياً لأنها تسببت بارتفاع درجة حرارة هاتفك. يمكنك فتحها مجدداً في وقت لاحق بعد أن يبرد هاتفك.</item>
+        <item quantity="many">تم إغلاق %d تطبيقاً تلقائياً لأنها تسببت بارتفاع درجة حرارة هاتفك. يمكنك فتحها مجدداً في وقت لاحق بعد أن يبرد هاتفك.</item>
+    </plurals>
+    <plurals name="app_kills_content_v2_tablet">
+        <item quantity="other">تم إغلاق %d تطبيق تلقائياً لأنها تسببت بارتفاع درجة حرارة جهازك اللوحي. يمكنك فتحها مجدداً في وقت لاحق بعد أن يبرد جهازك اللوحي.</item>
+        <item quantity="zero">تم إغلاق %d تطبيق تلقائياً لأنه تسبب ارتفاع درجة حرارة جهازك اللوحي. يمكنك فتحه مجدداً في وقت لاحق بعد أن يبرد جهازك اللوحي.</item>
+        <item quantity="one">تم إغلاق تطبيق واحد تلقائياً لأنه تسبب بارتفاع درجة حرارة جهازك اللوحي. يمكنك فتحه مجدداً في وقت لاحق بعد أن يبرد جهازك اللوحي.</item>
+        <item quantity="two">تم إغلاق تطبيقَين تلقائياً لأنهما تسببا بارتفاع درجة حرارة جهازك اللوحي. يمكنك فتحهما مجدداً في وقت لاحق بعد أن يبرد جهازك اللوحي.</item>
+        <item quantity="few">تم إغلاق %d تطبيقات تلقائياً لأنها تسببت بارتفاع درجة حرارة جهازك اللوحي. يمكنك فتحها مجدداً في وقت لاحق بعد أن يبرد جهازك اللوحي.</item>
+        <item quantity="many">تم إغلاق %d تطبيقاً تلقائياً لأنها تسببت بارتفاع درجة حرارة جهازك اللوحي. يمكنك فتحها مجدداً في وقت لاحق بعد أن يبرد جهازك اللوحي.</item>
+    </plurals>
+    <plurals name="app_kills_title_v2">
+        <item quantity="other">تم إغلاق %d تطبيق</item>
+        <item quantity="zero">تم إغلاق %d تطبيق</item>
+        <item quantity="one">تم إغلاق تطبيق واحد</item>
+        <item quantity="two">تم إغلاق تطبيقَين</item>
+        <item quantity="few">تم إغلاق %d تطبيقات</item>
+        <item quantity="many">تم إغلاق %d تطبيقاً</item>
+    </plurals>
+    <plurals name="autofill_picker_some_suggestions">
+        <item quantity="other">%1$s اقتراح للملء التلقائي</item>
+        <item quantity="one">اقتراح واحد للملء التلقائي</item>
+    </plurals>
+    <plurals name="bugreport_countdown">
+        <item quantity="other">سيتم التقاط لقطة شاشة لتقرير الخطأ خلال %d ثانية.</item>
+        <item quantity="one">سيتم التقاط لقطة شاشة لتقرير الخطأ خلال %d ثانية.</item>
+    </plurals>
+    <plurals name="dex_max_count_text">
+        <item quantity="other">يتعذر إظهار أكثر من %d تطبيق على الشاشة في الوقت نفسه. يتم تصغير أقدم تطبيق.</item>
+        <item quantity="zero">يتعذر إظهار أكثر من %d تطبيق على الشاشة في الوقت نفسه. يتم تصغير أقدم تطبيق.</item>
+        <item quantity="one">يتعذر إظهار أكثر من تطبيق واحد على الشاشة في الوقت نفسه. يتم تصغير أقدم تطبيق.</item>
+        <item quantity="two">يتعذر إظهار أكثر من تطبيقَين على الشاشة في الوقت نفسه. يتم تصغير أقدم تطبيق.</item>
+        <item quantity="few">يتعذر إظهار أكثر من %d تطبيقات على الشاشة في الوقت نفسه. يتم تصغير أقدم تطبيق.</item>
+        <item quantity="many">يتعذر إظهار أكثر من %d تطبيقاً على الشاشة في الوقت نفسه. يتم تصغير أقدم تطبيق.</item>
+    </plurals>
+    <plurals name="duration_days_relative">
+        <item quantity="other">قبل %d يوم</item>
+        <item quantity="one">قبل %d يوم</item>
+    </plurals>
+    <plurals name="duration_days_relative_future">
+        <item quantity="other">خلال %d يوم</item>
+        <item quantity="one">خلال %d يوم</item>
+    </plurals>
+    <plurals name="duration_days_shortest">
+        <item quantity="other">%d يوم</item>
+        <item quantity="one">%dيوم</item>
+    </plurals>
+    <plurals name="duration_days_shortest_future">
+        <item quantity="other">في%dيوم</item>
+        <item quantity="one">في%d يوم</item>
+    </plurals>
+    <plurals name="duration_hours_relative">
+        <item quantity="other">قبل %d ساعة</item>
+        <item quantity="one">قبل %d ساعة</item>
+    </plurals>
+    <plurals name="duration_hours_relative_future">
+        <item quantity="other">خلال %d ساعة</item>
+        <item quantity="one">خلال %d ساعة</item>
+    </plurals>
+    <plurals name="duration_hours_shortest">
+        <item quantity="other">%d ساعة</item>
+        <item quantity="one">%d ساعة</item>
+    </plurals>
+    <plurals name="duration_hours_shortest_future">
+        <item quantity="other">في%d ساعة</item>
+        <item quantity="one">في%dساعة</item>
+    </plurals>
+    <plurals name="duration_minutes_relative">
+        <item quantity="other">قبل %d دقيقة</item>
+        <item quantity="one">قبل %d دقيقة</item>
+    </plurals>
+    <plurals name="duration_minutes_relative_future">
+        <item quantity="other">خلال %d دقيقة</item>
+        <item quantity="one">خلال %d دقيقة</item>
+    </plurals>
+    <plurals name="duration_minutes_shortest">
+        <item quantity="other">%d دقيقة</item>
+        <item quantity="one">%dدقيقة</item>
+    </plurals>
+    <plurals name="duration_minutes_shortest_future">
+        <item quantity="other">في%d دقيقة</item>
+        <item quantity="one">في%d دقيقة</item>
+    </plurals>
+    <plurals name="duration_years_relative">
+        <item quantity="other">قبل %d سنة</item>
+        <item quantity="one">قبل %d سنة</item>
+    </plurals>
+    <plurals name="duration_years_relative_future">
+        <item quantity="other">خلال %d سنة</item>
+        <item quantity="one">خلال %d سنة</item>
+    </plurals>
+    <plurals name="duration_years_shortest">
+        <item quantity="other">%dعام</item>
+        <item quantity="one">%dعام</item>
+    </plurals>
+    <plurals name="duration_years_shortest_future">
+        <item quantity="other">في%dعام</item>
+        <item quantity="one">في%d عام</item>
+    </plurals>
+    <plurals name="file_count">
+        <item quantity="other">%1$s و%2$d ملف</item>
+        <item quantity="one">%1$s وملف (%2$d)</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_attempts_countdown">
+        <item quantity="other">حاول مرة أخرى خلال %d ثانية.</item>
+        <item quantity="one">حاول مرة أخرى خلال ثانية واحدة.</item>
+    </plurals>
+    <plurals name="last_num_days">
+        <item quantity="other">آخر %d من الأيام</item>
+        <item quantity="one">آخر %d يوم</item>
+    </plurals>
+    <plurals name="ltb_warning_content_v2_phone">
+        <item quantity="other">‏‫يتسبب %1$s بارتفاع درجة حرارة هاتفك. سيتم إغلاقه تلقائياً بعد %2$d ثانية.</item>
+        <item quantity="zero">‏‫يتسبب %1$s بارتفاع درجة حرارة هاتفك. سيتم إغلاقه تلقائياً بعد %2$d ثانية.</item>
+        <item quantity="one">‏‫يتسبب %1$s بارتفاع درجة حرارة هاتفك. سيتم إغلاقه تلقائياً بعد ثانية واحدة.</item>
+        <item quantity="two">‏‫يتسبب %1$s بارتفاع درجة حرارة هاتفك. سيتم إغلاقه تلقائياً بعد ثانيتين.</item>
+        <item quantity="few">‏‫يتسبب %1$s بارتفاع درجة حرارة هاتفك. سيتم إغلاقه تلقائياً بعد %2$d ثوانٍ.</item>
+        <item quantity="many">‏‫يتسبب %1$s بارتفاع درجة حرارة هاتفك. سيتم إغلاقه تلقائياً بعد %2$d ثانيةً.</item>
+    </plurals>
+    <plurals name="ltb_warning_content_v2_tablet">
+        <item quantity="other">‏‫يتسبب %1$s بارتفاع درجة حرارة جهازك اللوحي. سيتم إغلاقه تلقائياً بعد %2$d ثانية.</item>
+        <item quantity="zero">‏‫يتسبب %1$s بارتفاع درجة حرارة جهازك اللوحي. سيتم إغلاقه تلقائياً بعد %2$d ثانية.</item>
+        <item quantity="one">‏‫يتسبب %1$s بارتفاع درجة حرارة جهازك اللوحي. سيتم إغلاقه تلقائياً بعد ثانية واحدة.</item>
+        <item quantity="two">‏‫يتسبب %1$s بارتفاع درجة حرارة جهازك اللوحي. سيتم إغلاقه تلقائياً بعد ثانيتين.</item>
+        <item quantity="few">‏‫يتسبب %1$s بارتفاع درجة حرارة جهازك اللوحي. سيتم إغلاقه تلقائياً بعد %2$d ثوانٍ.</item>
+        <item quantity="many">‏‫يتسبب %1$s بارتفاع درجة حرارة جهازك اللوحي. سيتم إغلاقه تلقائياً بعد %2$d ثانيةً.</item>
+    </plurals>
+    <plurals name="matches_found">
+        <item quantity="other">%1$d من %2$d</item>
+        <item quantity="one">مباراة واحدة</item>
+    </plurals>
+    <plurals name="mdo_notification_description">
+        <item quantity="other">ثمة %d تطبيق يستخدم بيانات الهاتف المحمول حتى عندما يكون هاتفك متصلاً بشبكة Wi-Fi.</item>
+        <item quantity="zero">ثمة %d تطبيق يستخدم بيانات الهاتف المحمول حتى عندما يكون هاتفك متصلاً بشبكة Wi-Fi.</item>
+        <item quantity="one">ثمة تطبيق واحد يستخدم بيانات الهاتف المحمول عندما يكون هاتفك متصلاً بشبكة Wi-Fi.</item>
+        <item quantity="two">ثمة تطبيقان يستخدمان بيانات الهاتف المحمول حتى عندما يكون هاتفك متصلاً بشبكة Wi-Fi.</item>
+        <item quantity="few">ثمة %d تطبيقات تستخدم بيانات الهاتف المحمول حتى عندما يكون هاتفك متصلاً بشبكة Wi-Fi.</item>
+        <item quantity="many">ثمة %d تطبيقاً يستخدم بيانات الهاتف المحمول حتى عندما يكون هاتفك متصلاً بشبكة Wi-Fi.</item>
+    </plurals>
+    <plurals name="overheat_warning_content_v2_phone">
+        <item quantity="other">يتسبب %1$s بارتفاع درجة حرارة هاتفك. يمكنك إغلاقه الآن، أو سيتم إغلاقه تلقائياً بعد %2$d ثانية.</item>
+        <item quantity="zero">يتسبب %1$s بارتفاع درجة حرارة هاتفك. يمكنك إغلاقه الآن، أو سيتم إغلاقه تلقائياً بعد %2$d ثانية.</item>
+        <item quantity="one">يتسبب %1$s بارتفاع درجة حرارة هاتفك. يمكنك إغلاقه الآن، أو سيتم إغلاقه تلقائياً بعد دقيقة واحدة.</item>
+        <item quantity="two">يتسبب %1$s بارتفاع درجة حرارة هاتفك. يمكنك إغلاقه الآن، أو سيتم إغلاقه تلقائياً بعد ثانيتَين.</item>
+        <item quantity="few">يتسبب %1$s بارتفاع درجة حرارة هاتفك. يمكنك إغلاقه الآن، أو سيتم إغلاقه تلقائياً بعد %2$d ثوانٍ.</item>
+        <item quantity="many">يتسبب %1$s بارتفاع درجة حرارة هاتفك. يمكنك إغلاقه الآن، أو سيتم إغلاقه تلقائياً بعد %2$d ثانية.</item>
+    </plurals>
+    <plurals name="overheat_warning_content_v2_tablet">
+        <item quantity="other">يتسبب %1$s بارتفاع درجة حرارة جهازك اللوحي. يمكنك إغلاقه الآن، أو سيتم إغلاقه تلقائياً بعد %2$d ثانية.</item>
+        <item quantity="zero">يتسبب %1$s بارتفاع درجة حرارة جهازك اللوحي. يمكنك إغلاقه الآن، أو سيتم إغلاقه تلقائياً بعد %2$d ثانية.</item>
+        <item quantity="one">يتسبب %1$s بارتفاع درجة حرارة جهازك اللوحي. يمكنك إغلاقه الآن، أو سيتم إغلاقه تلقائياً بعد دقيقة واحدة.</item>
+        <item quantity="two">يتسبب %1$s بارتفاع درجة حرارة جهازك اللوحي. يمكنك إغلاقه الآن، أو سيتم إغلاقه تلقائياً بعد ثانيتَين.</item>
+        <item quantity="few">يتسبب %1$s بارتفاع درجة حرارة جهازك اللوحي. يمكنك إغلاقه الآن، أو سيتم إغلاقه تلقائياً بعد %2$d ثوانٍ.</item>
+        <item quantity="many">يتسبب %1$s بارتفاع درجة حرارة جهازك اللوحي. يمكنك إغلاقه الآن، أو سيتم إغلاقه تلقائياً بعد %2$d ثانية.</item>
+    </plurals>
+    <plurals name="pinpuk_attempts">
+        <item quantity="other">‏يتبقى لديك %d من المحاولات يتم بعدها قفل شريحة SIM.</item>
+        <item quantity="one">‏يتبقى لديك محاولة واحدة (%d) يتم بعدها قفل شريحة SIM.</item>
+    </plurals>
+    <plurals name="restr_pin_countdown">
+        <item quantity="other">حاول مرة أخرى خلال %d من الثواني</item>
+        <item quantity="one">حاول مرة أخرى خلال ثانية واحدة</item>
+    </plurals>
+    <plurals name="selected_count">
+        <item quantity="other">تم اختيار %1$d عنصر</item>
+        <item quantity="one">تم اختيار عنصر واحد (%1$d)</item>
+    </plurals>
+    <plurals name="sem_chooser_preview_items">
+        <item quantity="other">%d عنصر</item>
+        <item quantity="zero">%d عنصر</item>
+        <item quantity="one">عنصر واحد</item>
+        <item quantity="two">عنصران</item>
+        <item quantity="few">%d عناصر</item>
+        <item quantity="many">%d عنصراً</item>
+    </plurals>
+    <plurals name="ssl_ca_cert_warning">
+        <item quantity="other">تم تثبيت شهادات المرجع المصدق</item>
+        <item quantity="one">تم تثبيت شهادة المرجع المصدق</item>
+    </plurals>
+    <plurals name="zen_mode_duration_hours">
+        <item quantity="other">%d ساعة</item>
+        <item quantity="zero">%d ساعة</item>
+        <item quantity="one">ساعة واحدة</item>
+        <item quantity="two">ساعتان</item>
+        <item quantity="few">%d ساعات</item>
+        <item quantity="many">%d ساعةً</item>
+    </plurals>
+    <plurals name="zen_mode_duration_hours_short">
+        <item quantity="other">‏لمدة %d من الساعات</item>
+        <item quantity="one">لمدة ساعة</item>
+    </plurals>
+    <plurals name="zen_mode_duration_hours_summary">
+        <item quantity="other">‏لمدة %1$d ساعة (حتى %2$s)</item>
+        <item quantity="one">لمدة ساعة واحدة (حتى %2$s)</item>
+    </plurals>
+    <plurals name="zen_mode_duration_hours_summary_short">
+        <item quantity="other">‏لمدة %1$d من الساعات (حتى %2$s)</item>
+        <item quantity="one">لمدة ساعة (حتى %2$s)</item>
+    </plurals>
+    <plurals name="zen_mode_duration_minutes">
+        <item quantity="other">%d دقيقة</item>
+        <item quantity="zero">%d دقيقة</item>
+        <item quantity="one">دقيقة واحدة</item>
+        <item quantity="two">دقيقتان</item>
+        <item quantity="few">%d دقائق</item>
+        <item quantity="many">%d دقيقة</item>
+    </plurals>
+    <plurals name="zen_mode_duration_minutes_short">
+        <item quantity="other">‏لمدة %d من الدقائق</item>
+        <item quantity="one">لمدة دقيقة</item>
+    </plurals>
+    <plurals name="zen_mode_duration_minutes_summary">
+        <item quantity="other">‏لمدة %1$d من الدقائق (حتى %2$s)</item>
+        <item quantity="one">لمدة دقيقة واحدة (حتى %2$s)</item>
+    </plurals>
+    <plurals name="zen_mode_duration_minutes_summary_short">
+        <item quantity="other">‏لمدة %1$d من الدقائق (حتى %2$s)</item>
+        <item quantity="one">لمدة دقيقة (حتى %2$s)</item>
+    </plurals>
+</resources>
