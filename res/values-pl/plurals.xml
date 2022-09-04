@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="SDcardBlockUnmount_message">
+        <item quantity="other">Telefon działa niestabilnie, ponieważ karta pamięci, na której zainstalowano aplikacje, została usunięta. Telefon uruchomi się ponownie ze %d sekund, aby powrócić do normalnego stanu. Zapisz niezapisane dane przed ponownym uruchomieniem telefonu.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Telefon działa niestabilnie, ponieważ karta pamięci, na której zainstalowano aplikacje, została usunięta. Telefon uruchomi się ponownie ze %d sekundę, aby powrócić do normalnego stanu. Zapisz niezapisane dane przed ponownym uruchomieniem telefonu.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">Telefon działa niestabilnie, ponieważ karta pamięci, na której zainstalowano aplikacje, została usunięta. Telefon uruchomi się ponownie ze %d sekundy, aby powrócić do normalnego stanu. Zapisz niezapisane dane przed ponownym uruchomieniem telefonu.</item>
+        <item quantity="many">Telefon działa niestabilnie, ponieważ karta pamięci, na której zainstalowano aplikacje, została usunięta. Telefon uruchomi się ponownie ze %d sekund, aby powrócić do normalnego stanu. Zapisz niezapisane dane przed ponownym uruchomieniem telefonu.</item>
+    </plurals>
+    <plurals name="SDcardBlockUnmount_title">
+        <item quantity="other">Telefon uruchomi się ponownie za %d s</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Telefon uruchomi się ponownie za %d s</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">Telefon uruchomi się ponownie za %d s</item>
+        <item quantity="many">Telefon uruchomi się ponownie za %d s</item>
+    </plurals>
+    <plurals name="app_kills_content_v2_phone">
+        <item quantity="other">%d aplikacji zostało zamkniętych automatycznie, ponieważ powodowały przegrzewanie telefonu. Możesz ponownie otworzyć je później po ostygnięciu telefonu.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d aplikacja została zamknięta automatycznie, ponieważ powodowała przegrzewanie telefonu. Możesz ponownie otworzyć ją później po ostygnięciu telefonu.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">%d aplikacje zostały zamknięte automatycznie, ponieważ powodowały przegrzewanie telefonu. Możesz ponownie otworzyć je później po ostygnięciu telefonu.</item>
+        <item quantity="many">%d aplikacji zostało zamkniętych automatycznie, ponieważ powodowały przegrzewanie telefonu. Możesz ponownie otworzyć je później po ostygnięciu telefonu.</item>
+    </plurals>
+    <plurals name="app_kills_content_v2_tablet">
+        <item quantity="other">%d aplikacji zostało zamkniętych automatycznie, ponieważ powodowały przegrzewanie się tabletu. Możesz ponownie otworzyć je później po ostygnięciu tabletu.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d aplikacja została zamknięta automatycznie, ponieważ powodowała przegrzewanie się tabletu. Możesz ponownie otworzyć ją później po ostygnięciu tabletu.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">%d aplikacje zostały zamknięte automatycznie, ponieważ powodowały przegrzewanie się tabletu. Możesz ponownie otworzyć je później po ostygnięciu tabletu.</item>
+        <item quantity="many">%d aplikacji zostało zamkniętych automatycznie, ponieważ powodowały przegrzewanie się tabletu. Możesz ponownie otworzyć je później po ostygnięciu tabletu.</item>
+    </plurals>
+    <plurals name="app_kills_title_v2">
+        <item quantity="other">Zamknięto %d aplikacji</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Zamknięto %d aplikację</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">Zamknięto %d aplikacje</item>
+        <item quantity="many">Zamknięto %d aplikacji</item>
+    </plurals>
+    <plurals name="autofill_picker_some_suggestions">
+        <item quantity="other">%1$s sugestii autouzupełniania</item>
+        <item quantity="one">Jedna sugestia autouzupełniania</item>
+    </plurals>
+    <plurals name="bugreport_countdown">
+        <item quantity="other">Zrzut ekranu do raportu o błędzie zostanie zrobiony za %d sekundy.</item>
+        <item quantity="one">Zrzut ekranu do raportu o błędzie zostanie zrobiony za %d sekundę.</item>
+    </plurals>
+    <plurals name="dex_max_count_text">
+        <item quantity="other">Nie można wyświetlić więcej niż %d aplikacji na ekranie jednocześnie. Zminimalizowano najstarszą aplikację.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Nie można wyświetlić więcej niż %d aplikacji na ekranie jednocześnie. Zminimalizowano najstarszą aplikację.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">Nie można wyświetlić więcej niż %d aplikacji na ekranie jednocześnie. Zminimalizowano najstarszą aplikację.</item>
+        <item quantity="many">Nie można wyświetlić więcej niż %d aplikacji na ekranie jednocześnie. Zminimalizowano najstarszą aplikację.</item>
+    </plurals>
+    <plurals name="duration_days_relative">
+        <item quantity="other">%d dnia temu</item>
+        <item quantity="one">%d dzień temu</item>
+    </plurals>
+    <plurals name="duration_days_relative_future">
+        <item quantity="other">za %d dnia</item>
+        <item quantity="one">za %d dzień</item>
+    </plurals>
+    <plurals name="duration_days_shortest">
+        <item quantity="other">%d dnia</item>
+        <item quantity="one">%d dzień</item>
+    </plurals>
+    <plurals name="duration_days_shortest_future">
+        <item quantity="other">za %d dnia</item>
+        <item quantity="one">za %d dzień</item>
+    </plurals>
+    <plurals name="duration_hours_relative">
+        <item quantity="other">%d godziny temu</item>
+        <item quantity="one">%d godzinę temu</item>
+    </plurals>
+    <plurals name="duration_hours_relative_future">
+        <item quantity="other">za %d godziny</item>
+        <item quantity="one">za %d godzinę</item>
+    </plurals>
+    <plurals name="duration_hours_shortest">
+        <item quantity="other">%d godz.</item>
+        <item quantity="one">%d godz.</item>
+    </plurals>
+    <plurals name="duration_hours_shortest_future">
+        <item quantity="other">za %d godz.</item>
+        <item quantity="one">za %d godz.</item>
+    </plurals>
+    <plurals name="duration_minutes_relative">
+        <item quantity="other">%d minuty temu</item>
+        <item quantity="one">%d minutę temu</item>
+    </plurals>
+    <plurals name="duration_minutes_relative_future">
+        <item quantity="other">za %d minuty</item>
+        <item quantity="one">za %d minutę</item>
+    </plurals>
+    <plurals name="duration_minutes_shortest">
+        <item quantity="other">%d min</item>
+        <item quantity="one">%d min</item>
+    </plurals>
+    <plurals name="duration_minutes_shortest_future">
+        <item quantity="other">za %d min</item>
+        <item quantity="one">za %d min</item>
+    </plurals>
+    <plurals name="duration_years_relative">
+        <item quantity="other">%d roku temu</item>
+        <item quantity="one">%d rok temu</item>
+    </plurals>
+    <plurals name="duration_years_relative_future">
+        <item quantity="other">za %d roku</item>
+        <item quantity="one">za %d rok</item>
+    </plurals>
+    <plurals name="duration_years_shortest">
+        <item quantity="other">%d roku</item>
+        <item quantity="one">%d rok</item>
+    </plurals>
+    <plurals name="duration_years_shortest_future">
+        <item quantity="other">za %d roku</item>
+        <item quantity="one">za %d rok</item>
+    </plurals>
+    <plurals name="file_count">
+        <item quantity="other">%1$s + %2$d pliku</item>
+        <item quantity="one">%1$s + %2$d plik</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_attempts_countdown">
+        <item quantity="other">Spróbuj ponownie za %d sekundy.</item>
+        <item quantity="one">Spróbuj ponownie za sekundę</item>
+    </plurals>
+    <plurals name="last_num_days">
+        <item quantity="other">Ostatnie %d dnia</item>
+        <item quantity="one">Ostatni %d dzień</item>
+    </plurals>
+    <plurals name="ltb_warning_content_v2_phone">
+        <item quantity="other">Aplikacja %1$s powoduje przegrzewanie się telefonu. Zostanie automatycznie zamknięta za %2$d sekundy.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Aplikacja %1$s powoduje przegrzewanie się telefonu. Zostanie automatycznie zamknięta za %2$d sekundę.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">Aplikacja %1$s powoduje przegrzewanie się telefonu. Zostanie automatycznie zamknięta za %2$d sekundy.</item>
+        <item quantity="many">Aplikacja %1$s powoduje przegrzewanie się telefonu. Zostanie automatycznie zamknięta za %2$d sekund.</item>
+    </plurals>
+    <plurals name="ltb_warning_content_v2_tablet">
+        <item quantity="other">Aplikacja %1$s powoduje przegrzewanie się tabletu. Zostanie automatycznie zamknięta za %2$d sekundy.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Aplikacja %1$s powoduje przegrzewanie się tabletu. Zostanie automatycznie zamknięta za %2$d sekundę.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">Aplikacja %1$s powoduje przegrzewanie się tabletu. Zostanie automatycznie zamknięta za %2$d sekundy.</item>
+        <item quantity="many">Aplikacja %1$s powoduje przegrzewanie się tabletu. Zostanie automatycznie zamknięta za %2$d sekund.</item>
+    </plurals>
+    <plurals name="matches_found">
+        <item quantity="other">%1$d z %2$d</item>
+        <item quantity="one">1 dopasowanie</item>
+    </plurals>
+    <plurals name="mdo_notification_description">
+        <item quantity="other">%d aplikacji używa danych komórkowych nawet wtedy, gdy telefon jest połączony z siecią Wi-Fi.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d aplikacja używa danych komórkowych nawet wtedy, gdy telefon jest połączony z siecią Wi-Fi.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">%d aplikacje używają danych komórkowych nawet wtedy, gdy telefon jest połączony z siecią Wi-Fi.</item>
+        <item quantity="many">%d aplikacji używa danych komórkowych nawet wtedy, gdy telefon jest połączony z siecią Wi-Fi.</item>
+    </plurals>
+    <plurals name="overheat_warning_content_v2_phone">
+        <item quantity="other">Aplikacja %1$s powoduje przegrzewanie się telefonu. Możesz zamknąć ją teraz lub zostanie zamknięta automatycznie za %2$d sekund.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Aplikacja %1$s powoduje przegrzewanie się telefonu. Możesz zamknąć ją teraz lub zostanie zamknięta automatycznie za %2$d sekundę.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">Aplikacja %1$s powoduje przegrzewanie się telefonu. Możesz zamknąć ją teraz lub zostanie zamknięta automatycznie za %2$d sekundy.</item>
+        <item quantity="many">Aplikacja %1$s powoduje przegrzewanie się telefonu. Możesz zamknąć ją teraz lub zostanie zamknięta automatycznie za %2$d sekund.</item>
+    </plurals>
+    <plurals name="overheat_warning_content_v2_tablet">
+        <item quantity="other">Aplikacja %1$s powoduje przegrzewanie się tabletu. Możesz zamknąć ją teraz lub zostanie zamknięta automatycznie za %2$d sekund.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Aplikacja %1$s powoduje przegrzewanie się tabletu. Możesz zamknąć ją teraz lub zostanie zamknięta automatycznie za %2$d sekundę.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">Aplikacja %1$s powoduje przegrzewanie się tabletu. Możesz zamknąć ją teraz lub zostanie zamknięta automatycznie za %2$d sekundy.</item>
+        <item quantity="many">Aplikacja %1$s powoduje przegrzewanie się tabletu. Możesz zamknąć ją teraz lub zostanie zamknięta automatycznie za %2$d sekund.</item>
+    </plurals>
+    <plurals name="pinpuk_attempts">
+        <item quantity="other">Masz jeszcze %d próby, zanim karta SIM zostanie zablokowana.</item>
+        <item quantity="one">Masz jeszcze %d próbę, zanim karta SIM zostanie zablokowana.</item>
+    </plurals>
+    <plurals name="restr_pin_countdown">
+        <item quantity="other">Spróbuj ponownie za %d sekundy</item>
+        <item quantity="one">Spróbuj ponownie za sekundę</item>
+    </plurals>
+    <plurals name="selected_count">
+        <item quantity="other">Wybrano %1$d</item>
+        <item quantity="one">Wybrano %1$d</item>
+    </plurals>
+    <plurals name="sem_chooser_preview_items">
+        <item quantity="other">%d elementów</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d element</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">%d elementy</item>
+        <item quantity="many">%d elementów</item>
+    </plurals>
+    <plurals name="ssl_ca_cert_warning">
+        <item quantity="other">Urzędy certyfikacji zostały zainstalowane</item>
+        <item quantity="one">Urząd certyfikacji został zainstalowany</item>
+    </plurals>
+    <plurals name="zen_mode_duration_hours">
+        <item quantity="other">%d godziny</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d godzina</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">%d godziny</item>
+        <item quantity="many">%d godzin</item>
+    </plurals>
+    <plurals name="zen_mode_duration_hours_short">
+        <item quantity="other">%d godz.</item>
+        <item quantity="one">1 godz.</item>
+    </plurals>
+    <plurals name="zen_mode_duration_hours_summary">
+        <item quantity="other">Na %1$d godziny (do %2$s)</item>
+        <item quantity="one">Na godzinę (do %2$s)</item>
+    </plurals>
+    <plurals name="zen_mode_duration_hours_summary_short">
+        <item quantity="other">%1$d godz. (do %2$s)</item>
+        <item quantity="one">1 godz. (do %2$s)</item>
+    </plurals>
+    <plurals name="zen_mode_duration_minutes">
+        <item quantity="other">%d minut</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d minuta</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">%d minuty</item>
+        <item quantity="many">%d minut</item>
+    </plurals>
+    <plurals name="zen_mode_duration_minutes_short">
+        <item quantity="other">%d min</item>
+        <item quantity="one">1 min</item>
+    </plurals>
+    <plurals name="zen_mode_duration_minutes_summary">
+        <item quantity="other">Przez %1$d minuty (do %2$s)</item>
+        <item quantity="one">Przez minutę (do %2$s)</item>
+    </plurals>
+    <plurals name="zen_mode_duration_minutes_summary_short">
+        <item quantity="other">%1$d min (do %2$s)</item>
+        <item quantity="one">1 min (do %2$s)</item>
+    </plurals>
+</resources>
