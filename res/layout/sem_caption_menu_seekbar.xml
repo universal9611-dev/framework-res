@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout android:id="@id/decor_seekbar_container" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <SeekBar android:id="@id/decor_seekbar" android:background="@drawable/sem_decor_seekbar_background" android:layout_width="fill_parent" android:layout_height="@dimen/sem_caption_menu_popup_button_size" android:max="60" android:progress="60" style="@style/Widget.DeviceDefault.Light.SeekBar" />
+</FrameLayout>

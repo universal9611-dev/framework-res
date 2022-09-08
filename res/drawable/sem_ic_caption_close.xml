@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector android:tint="@color/sem_decor_caption_icon_color" android:height="@dimen/sem_decor_caption_icon_size" android:width="@dimen/sem_decor_caption_icon_size" android:viewportWidth="@dimen/sem_decor_caption_icon_viewport_size" android:viewportHeight="@dimen/sem_decor_caption_icon_viewport_size"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <path android:fillColor="@color/white" android:pathData="M72.657,15.969l-4.625-4.625L42,37.375L15.968,11.344l-4.625,4.625L37.375,42L11.343,68.031l4.625,4.625 L42,46.625l26.032,26.031l4.625-4.625L46.625,42L72.657,15.969z" />
+</vector>

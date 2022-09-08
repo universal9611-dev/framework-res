@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list android:paddingMode="stack"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:gravity="fill_horizontal|center" android:id="@id/background" android:tint="?^attr-private/semSeekBarNormalColor" android:height="@dimen/sem_seekbar_track_height" android:drawable="@drawable/sem_progress_state_drawable_expand" />
+    <item android:gravity="fill_horizontal|center" android:id="@id/secondaryProgress" android:tint="@color/tw_seekbar_color_control_secondary" android:height="@dimen/sem_seekbar_track_height">
+        <clip android:drawable="@drawable/sem_progress_state_drawable_expand" />
+    </item>
+    <item android:gravity="fill_horizontal|center" android:id="@id/progress" android:tint="?^attr-private/semSeekBarActivatedColor" android:height="@dimen/sem_seekbar_track_height">
+        <clip android:drawable="@drawable/sem_progress_state_drawable_expand" />
+    </item>
+</layer-list>

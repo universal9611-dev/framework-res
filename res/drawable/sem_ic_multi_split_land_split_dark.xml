@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector android:tint="@color/sem_multi_split_menu_icon_color_dark" android:height="@dimen/sem_caption_menu_popup_icon_size" android:width="@dimen/sem_caption_menu_popup_icon_size" android:viewportWidth="@dimen/sem_multi_split_menu_icon_viewport_size" android:viewportHeight="@dimen/sem_multi_split_menu_icon_viewport_size"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <path android:fillColor="@color/white" android:pathData="M52.3,10H19.7c-5.3,0-9.7,4.3-9.7,9.7v32.7c0,5.3,4.3,9.7,9.7,9.7h32.7c5.3,0,9.7-4.3,9.7-9.7V19.7C62,14.3,57.7,10,52.3,10  z M57.5,52.3c0,2.9-2.3,5.2-5.2,5.2H19.7c-2.9,0-5.2-2.3-5.2-5.2V38.2h16.8c0.8,1.8,2.6,3,4.7,3c2.1,0,3.9-1.2,4.7-3h16.9V52.3z   M57.5,33.8H40.7c-0.8-1.8-2.6-3-4.7-3c-2.1,0-3.9,1.2-4.7,3H14.5V19.7c0-2.9,2.3-5.2,5.2-5.2h32.7c2.9,0,5.2,2.3,5.2,5.2V33.8z" />
+</vector>

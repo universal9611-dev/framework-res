@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="utf-8"?>
+<inset android:drawable="@drawable/sem_ic_caption_trans_light" android:insetLeft="@dimen/sem_decor_caption_icon_inset" android:insetRight="@dimen/sem_decor_caption_icon_inset" android:insetTop="@dimen/sem_decor_caption_icon_inset" android:insetBottom="@dimen/sem_decor_caption_icon_inset"
+  xmlns:android="http://schemas.android.com/apk/res/android" />

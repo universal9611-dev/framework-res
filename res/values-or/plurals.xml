@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="SDcardBlockUnmount_message">
+        <item quantity="other">ଆପଣଙ୍କ ଫୋନ୍ ଅସ୍ଥିର ହୋଇଛି କାରଣ ଏକ SD କାର୍ଡ ଯେଉଁଥିରେ ସଂସ୍ଥାପନ ହୋଇଥିବା ଆପସ୍ ଥିଲା ଅପସାରଣ ହୋଇଛି। ଆପଣଙ୍କ ଫୋନ୍ ସାମାନ୍ୟକୁ ଫେରିବାକୁ %d ସେକେଣ୍ତରେ ପୁନଃଆରମ୍ଭ ହେବ। ଫୋନ୍ ପୁନଃଆରମ୍ଭ ହେବା ପୂର୍ବରୁ ଯେକୌଣସି ଅସଞ୍ଚିତ ଡାଟା ସଞ୍ଚୟ କରନ୍ତୁ।</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">ଆପଣଙ୍କ ଫୋନ୍ ଅସ୍ଥିର ହୋଇଛି କାରଣ ଏକ SD କାର୍ଡ ଯେଉଁଥିରେ ସଂସ୍ଥାପନ ହୋଇଥିବା ଆପସ୍ ଥିଲା ଅପସାରଣ ହୋଇଛି। ଆପଣଙ୍କ ଫୋନ୍ ସାମାନ୍ୟକୁ ଫେରିବାକୁ %d ସେକେଣ୍ତରେ ପୁନଃଆରମ୍ଭ ହେବ। ଫୋନ୍ ପୁନଃଆରମ୍ଭ ହେବା ପୂର୍ବରୁ ଯେକୌଣସି ଅସଞ୍ଚିତ ଡାଟା ସଞ୍ଚୟ କରନ୍ତୁ।</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="SDcardBlockUnmount_title">
+        <item quantity="other">ଆପଣଙ୍କ ଫୋନ୍ %d ସେକେଣ୍ଡରେ ପୁନଃଆରମ୍ଭ ହେବ</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">ଆପଣଙ୍କ ଫୋନ୍ %d ସେକେଣ୍ଡରେ ପୁନଃଆରମ୍ଭ ହେବ</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="app_kills_content_v2_phone">
+        <item quantity="other">%dଟି ଆପ୍ଲିକେସନ୍ କାରଣରୁ ଆପଣଙ୍କ ଫୋନ୍ ଅଧିକ ଉତ୍ତପ୍ତ ହେଉଥିବାରୁ ସେଗୁଡିକ ସ୍ୱତଃସ୍ପୃତ ଭାବେ ବନ୍ଦ ହୋଇଛି। ଆପଣ ଏହାକୁ ପୁନଃ ଆପଣଙ୍କ ଫୋନ୍ ଥଣ୍ତା ହେବା ପରେ ଖୋଲିପାରିବେ।</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%dଟି ଆପ୍ଲିକେସନ୍ କାରଣରୁ ଆପଣଙ୍କ ଫୋନ୍ ଅଧିକ ଉତ୍ତପ୍ତ ହେଉଥିବାରୁ ଏହା ସ୍ୱତଃସ୍ପୃତ ଭାବେ ବନ୍ଦ ହୋଇଛି। ଆପଣ ଏହାକୁ ପୁନଃ ଆପଣଙ୍କ ଫୋନ୍ ଥଣ୍ତା ହେବା ପରେ ଖୋଲିପାରିବେ।</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="app_kills_content_v2_tablet">
+        <item quantity="other">%dଟି ଆପ୍ଲିକେସନ୍ କାରଣରୁ ଆପଣଙ୍କ ଟ୍ୟାବଲେଟ୍ ଅଧିକ ଉତ୍ତପ୍ତ ହେଉଥିବାରୁ ଏହା ସ୍ୱତଃସ୍ପୃତ ଭାବେ ବନ୍ଦ ହୋଇଛି। ଆପଣ ଏହାକୁ ପୁନଃ ଆପଣଙ୍କ ଟ୍ୟାବଲେଟ୍ ଥଣ୍ତା ହେବା ପରେ ଖୋଲିପାରିବେ।</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%dଟି ଆପ୍ଲିକେସନ୍ କାରଣରୁ ଆପଣଙ୍କ ଟ୍ୟାବଲେଟ୍ ଅଧିକ ଉତ୍ତପ୍ତ ହେଉଥିବାରୁ ଏହା ସ୍ୱତଃସ୍ପୃତ ଭାବେ ବନ୍ଦ ହୋଇଛି। ଆପଣ ଏହାକୁ ପୁନଃ ଆପଣଙ୍କ ଟ୍ୟାବଲେଟ୍ ଥଣ୍ତା ହେବା ପରେ ଖୋଲିପାରିବେ।</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="app_kills_title_v2">
+        <item quantity="other">%dଟି ଆପ୍ଲିକେସନ୍‌ ବନ୍ଦ ହୋଇଛି</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%dଟି ଆପ୍ଲିକେସନ୍ ବନ୍ଦ ହୋଇଛି</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="autofill_picker_some_suggestions">
+        <item quantity="other">%1$sଟି ଅଟୋଫିଲ୍‍ ପରାମର୍ଶ</item>
+        <item quantity="one">ଗୋଟିଏ ଅଟୋଫିଲ୍‍ ପରାମର୍ଶ</item>
+    </plurals>
+    <plurals name="bugreport_countdown">
+        <item quantity="other">%d ସେକେଣ୍ଡରେ ବଗ୍‍ ରିପୋର୍ଟ ପାଇଁ ସ୍କ୍ରୀନଶଟ୍‍ ନେଉଛି।</item>
+        <item quantity="one">%d ସେକେଣ୍ଡରେ ବଗ୍‍ ରିପୋର୍ଟ ପାଇଁ ସ୍କ୍ରୀନଶଟ୍‍ ନେଉଛି।</item>
+    </plurals>
+    <plurals name="dex_max_count_text">
+        <item quantity="other">ସ୍କ୍ରିନରେ ଏକା ସମୟରେ %dଟି ରୁ ଅଧିକ ଆପ୍ଲିକେସନ୍ ଦେଖାଇ ପାରିବେ ନାହିଁ। ପୁରାତନ ଆପ୍ଲିକେସନ୍‌ ସର୍ବନିମ୍ନ ହୋଇଛି।</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">ସ୍କ୍ରିନରେ ଏକା ସମୟରେ %dଟି ରୁ ଅଧିକ ଆପ୍ଲିକେସନ୍ ଦେଖାଇ ପାରିବେ ନାହିଁ। ପୁରାତନ ଆପ୍ଲିକେସନ୍‌ ସର୍ବନିମ୍ନ ହୋଇଛି।</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="duration_days_relative">
+        <item quantity="other">%d ଦିନ ପୂର୍ବେ</item>
+        <item quantity="one">%d ଦିନ ପୂର୍ବେ</item>
+    </plurals>
+    <plurals name="duration_days_relative_future">
+        <item quantity="other">%d ଦିନରେ</item>
+        <item quantity="one">%d ଦିନରେ</item>
+    </plurals>
+    <plurals name="duration_days_shortest">
+        <item quantity="other">%dଦିନ</item>
+        <item quantity="one">%dଦିନ</item>
+    </plurals>
+    <plurals name="duration_days_shortest_future">
+        <item quantity="other">%dଦିନରେ</item>
+        <item quantity="one">%dଦିନରେ</item>
+    </plurals>
+    <plurals name="duration_hours_relative">
+        <item quantity="other">%d ଘଣ୍ଟା ପୂର୍ବେ</item>
+        <item quantity="one">%d ଘଣ୍ଟା ପୂର୍ବେ</item>
+    </plurals>
+    <plurals name="duration_hours_relative_future">
+        <item quantity="other">%d ଘଣ୍ଟାରେ</item>
+        <item quantity="one">%d ଘଣ୍ଟାରେ</item>
+    </plurals>
+    <plurals name="duration_hours_shortest">
+        <item quantity="other">%dଘଣ୍ଟା</item>
+        <item quantity="one">%dଘଣ୍ଟା</item>
+    </plurals>
+    <plurals name="duration_hours_shortest_future">
+        <item quantity="other">%d ଘଣ୍ଟାରେ</item>
+        <item quantity="one">%d ଘଣ୍ଟାରେ</item>
+    </plurals>
+    <plurals name="duration_minutes_relative">
+        <item quantity="other">%d ମିନିଟ୍‍ ପୂର୍ବେ</item>
+        <item quantity="one">%d ମିନିଟ୍‍ ପୂର୍ବେ</item>
+    </plurals>
+    <plurals name="duration_minutes_relative_future">
+        <item quantity="other">%d ମିନିଟରେ</item>
+        <item quantity="one">%d ମିନିଟରେ</item>
+    </plurals>
+    <plurals name="duration_minutes_shortest">
+        <item quantity="other">%dମିନିଟ୍‍</item>
+        <item quantity="one">%dମିନିଟ୍‍</item>
+    </plurals>
+    <plurals name="duration_minutes_shortest_future">
+        <item quantity="other">%dମିନିଟରେ</item>
+        <item quantity="one">%dମିନିଟରେ</item>
+    </plurals>
+    <plurals name="duration_years_relative">
+        <item quantity="other">%d ବର୍ଷ ପୂର୍ବେ</item>
+        <item quantity="one">%d ବର୍ଷ ପୂର୍ବେ</item>
+    </plurals>
+    <plurals name="duration_years_relative_future">
+        <item quantity="other">%d ବର୍ଷରେ</item>
+        <item quantity="one">%d ବର୍ଷରେ</item>
+    </plurals>
+    <plurals name="duration_years_shortest">
+        <item quantity="other">%dବର୍ଷ</item>
+        <item quantity="one">%dବର୍ଷ</item>
+    </plurals>
+    <plurals name="duration_years_shortest_future">
+        <item quantity="other">%dବର୍ଷରେ</item>
+        <item quantity="one">%dବର୍ଷରେ</item>
+    </plurals>
+    <plurals name="file_count">
+        <item quantity="other">%1$s + %2$dଟି ଫାଇଲ୍</item>
+        <item quantity="one">%1$s + %2$dଟି ଫାଇଲ୍</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_attempts_countdown">
+        <item quantity="other">%d ସେକେଣ୍ଡ ପରେ ପୁଣି ଚେଷ୍ଟା କରନ୍ତୁ।</item>
+        <item quantity="one">1 ସେକେଣ୍ଡ ପରେ ପୁଣି ଚେଷ୍ଟା କରନ୍ତୁ।</item>
+    </plurals>
+    <plurals name="last_num_days">
+        <item quantity="other">ଶେଷ %d ଦିନ</item>
+        <item quantity="one">ଶେଷ %d ଦିନ</item>
+    </plurals>
+    <plurals name="matches_found">
+        <item quantity="other">%1$dରୁ %2$d</item>
+        <item quantity="one">1ଟି ମେଳ</item>
+    </plurals>
+    <plurals name="mdo_notification_description">
+        <item quantity="other">ଏପରିକି ଆପଣଙ୍କ ଫୋନ୍ Wi-Fiକୁ ସଂଯୋଜିତ ହୋଇଥିବା ସମୟରେ ମଧ୍ୟ %dଟି ଆପ୍ଲିକେସନ୍ ମୋବାଇଲ୍ ଡାଟା ବ୍ୟବହାର କରେ।</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">ଏପରିକି ଆପଣଙ୍କ ଫୋନ୍ Wi-Fiକୁ ସଂଯୋଜିତ ହୋଇଥିବା ସମୟରେ ମଧ୍ୟ ମୋବାଇଲ୍ ଡାଟା ବ୍ୟବହାର କରିବାକୁ %dଟି ଆପ୍ଲିକେସନ୍ ସେଟ୍ କରନ୍ତୁ।</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="overheat_warning_content_v2_phone">
+        <item quantity="other">%1$s କାରଣରୁ ଆପଣଙ୍କ ଫୋନ୍ ଅଧିକ ଉତ୍ତପ୍ତ ହୋଇଛି। ଆପଣ ଏହାକୁ ବର୍ତ୍ତମାନ ବନ୍ଦ କରିପାରିବେ, କିମ୍ୱା ଏହା ସ୍ୱତଃସ୍ପୃତ ଭାବେ %2$d ସେକେଣ୍ଡରେ ବନ୍ଦ ହେବ।</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%1$s କାରଣରୁ ଆପଣଙ୍କ ଫୋନ୍ ଅଧିକ ଉତ୍ତପ୍ତ ହୋଇଛି। ଆପଣ ଏହାକୁ ବର୍ତ୍ତମାନ ବନ୍ଦ କରିପାରିବେ, କିମ୍ୱା ଏହା ସ୍ୱତଃସ୍ପୃତ ଭାବେ %2$d ସେକେଣ୍ତରେ ବନ୍ଦ ହେବ।</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="overheat_warning_content_v2_tablet">
+        <item quantity="other">%1$s କାରଣରୁ ଆପଣଙ୍କ ଟ୍ୟାବଲେଟ୍ ଅଧିକ ଉତ୍ତପ୍ତ ହୋଇଛି। ଆପଣ ଏହାକୁ ବର୍ତ୍ତମାନ ବନ୍ଦ କରିପାରିବେ, କିମ୍ୱା ଏହା ସ୍ୱତଃସ୍ପୃତ ଭାବେ %2$d ସେକେଣ୍ଡରେ ବନ୍ଦ ହେବ।</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%1$s କାରଣରୁ ଆପଣଙ୍କ ଟ୍ୟାବଲେଟ୍ ଅଧିକ ଉତ୍ତପ୍ତ ହୋଇଛି। ଆପଣ ଏହାକୁ ବର୍ତ୍ତମାନ ବନ୍ଦ କରିପାରିବେ, କିମ୍ୱା ଏହା ସ୍ୱତଃସ୍ପୃତ ଭାବେ %2$d ସେକେଣ୍ତରେ ବନ୍ଦ ହେବ।</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="pinpuk_attempts">
+        <item quantity="other">ଆଉ %dଟି ପ୍ରୟାସ ପରେ SIM ଲକ୍‍ ହୋଇଯିବ।</item>
+        <item quantity="one">ଆଉ %dଟି ପ୍ରୟାସ ପରେ SIM ଲକ୍‍ ହୋଇଯିବ।</item>
+    </plurals>
+    <plurals name="restr_pin_countdown">
+        <item quantity="other">%d ସେକେଣ୍ଡରେ ପୁଣି ଚେଷ୍ଟା କରନ୍ତୁ</item>
+        <item quantity="one">1 ସେକେଣ୍ଡରେ ପୁଣି ଚେଷ୍ଟା କରନ୍ତୁ</item>
+    </plurals>
+    <plurals name="selected_count">
+        <item quantity="other">%1$d ଚୟନିତ</item>
+        <item quantity="one">%1$d ଚୟନିତ</item>
+    </plurals>
+    <plurals name="sem_chooser_preview_items">
+        <item quantity="other">%dଟି ଆଇଟମ୍‌</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%dଟି ଆଇଟମ୍</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="ssl_ca_cert_warning">
+        <item quantity="other">ସର୍ଟିଫିକେଟ୍‍ ଅଥରିଟିଗୁଡ଼ିକ ଇନଷ୍ଟଲ୍‍ ହେଲା</item>
+        <item quantity="one">ସର୍ଟିଫିକେଟ୍‍ ଅଥରିଟୀ ଇନଷ୍ଟଲ୍‍ ହେଲା</item>
+    </plurals>
+    <plurals name="zen_mode_duration_hours">
+        <item quantity="other">%d ଘଣ୍ଟା</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d ଘଣ୍ଟା</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="zen_mode_duration_hours_short">
+        <item quantity="other">%d ଘଣ୍ଟା ପାଇଁ</item>
+        <item quantity="one">1 ଘଣ୍ଟା ପାଇଁ</item>
+    </plurals>
+    <plurals name="zen_mode_duration_hours_summary">
+        <item quantity="other">%d ଘଣ୍ଟା</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d ଘଣ୍ଟା</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="zen_mode_duration_hours_summary_short">
+        <item quantity="other">%1$d ଘଣ୍ଟା ପାଇଁ (%2$s ପର୍ଯ୍ୟନ୍ତ)</item>
+        <item quantity="one">1 ଘଣ୍ଟା ପାଇଁ (%2$s ପର୍ଯ୍ୟନ୍ତ)</item>
+    </plurals>
+    <plurals name="zen_mode_duration_minutes">
+        <item quantity="other">%d ମିନିଟ୍</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d ମିନିଟ୍‌</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="zen_mode_duration_minutes_short">
+        <item quantity="other">%d ମିନିଟ୍ ପାଇଁ</item>
+        <item quantity="one">1 ମିନିଟ୍ ପାଇଁ</item>
+    </plurals>
+    <plurals name="zen_mode_duration_minutes_summary">
+        <item quantity="other">%d ମିନିଟ୍</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d ମିନିଟ୍‌</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="zen_mode_duration_minutes_summary_short">
+        <item quantity="other">%1$d ମିନିଟ୍ ପାଇଁ (%2$s ପର୍ଯ୍ୟନ୍ତ)</item>
+        <item quantity="one">1 ମିନିଟ୍ ପାଇଁ (%2$s ପର୍ଯ୍ୟନ୍ତ)</item>
+    </plurals>
+</resources>

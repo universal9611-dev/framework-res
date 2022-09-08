@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="dimen" name="sem_datepicker_spinner_text_size">32</item>
+    <item type="dimen" name="sem_datepicker_spinner_text_size_small">30</item>
+    <item type="dimen" name="sem_resolver_top_panel_left_weight">2.6</item>
+    <item type="dimen" name="sem_resolver_top_panel_right_weight">7.4</item>
+</resources>

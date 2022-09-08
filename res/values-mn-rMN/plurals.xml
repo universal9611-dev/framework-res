@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="SDcardBlockUnmount_message">
+        <item quantity="other">Таны утас тогтворгүй байна яагаад гэвэл хэрэглүүрүүд суурилуулсан байсан SD картыг арилгасан. Таны утас хэвийн болохын тулд %d секундийн дараа дахин эхэлнэ. Утас дахин эхлэхээс өмнө хадгалаагүй өгөгдлийг хадгална уу.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Таны утас тогтворгүй байна яагаад гэвэл хэрэглүүрүүд суурилуулсан байсан SD картыг арилгасан. Таны утас хэвийн болохын тулд %d секундийн дараа дахин эхэлнэ. Утас дахин эхлэхээс өмнө хадгалаагүй өгөгдлийг хадгална уу.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="SDcardBlockUnmount_title">
+        <item quantity="other">Таны утас %d секунд дараа дахн эхлнэ.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Таны утас %d секунд дараа дахн эхлнэ.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="app_kills_content_v2_phone">
+        <item quantity="other">%d хэрэглүүрүүд таны утсанд хэт халалт үүсгэж байсан учраас тэднийг автоматаар хаасан. Та утсаа хөрсний дараа тэднийг дахин нээх боломжтой.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d хэрэглүүр таны утсанд хэт халалт үүсгэж байсан учраас түүнийг автоматаар хаасан. Та утсаа хөрсний дараа түүнийг дахин нээх боломжтой.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="app_kills_content_v2_tablet">
+        <item quantity="other">%d хэрэглүүрүүд таны таблетад хэт халалт үүсгэж байсан тул тэднийг автоматаар хаасан. Та таблетаа хөрсний дараа тэднийг дахин нээх боломжтой.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d хэрэглүүр таны таблетад хэт халалт үүсгэж байсан учраас автоматаар хаасан. Та таблетаа хөрсний дараа үүнийг дахин нээж болно.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="app_kills_title_v2">
+        <item quantity="other">%d хэрэглүүрийг хаасан</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d хэрэглүүрийг хаасан</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="dex_max_count_text">
+        <item quantity="other">Дэлгэцэд нэгэн зэрэг %d-с их хэрэглүүр харуулах боломжгүй. Хуучин хэрэглүүрийг жижгэрүүлсэн.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">Дэлгэцэд нэгэн зэрэг %d-с их хэрэглүүр харуулах боломжгүй. Хуучин хэрэглүүрийг жижгэрүүлсэн.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="mdo_notification_description">
+        <item quantity="other">%d хэрэглүүр утас тань Wi-Fi-д холбогдсон үед ч мобайл дата ашиглаж байна.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d хэрэглүүр утас тань Wi-Fi-д холбогдсон үед ч мобайл дата ашиглаж байна.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="overheat_warning_content_v2_phone">
+        <item quantity="other">%1$s таны утсанд хэт халалт үүсгэж байна. Та үүнийг одоо хаах боломжтой, эсвэл энэ нь %2$d секундийн дараа автоматаар хаагдана.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%1$s таны утсанд хэт халалт үүсгэж байна. Та үүнийг одоо хаах боломжтой, эсвэл энэ нь %2$d секундийн дараа автоматаар хаагдана.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="overheat_warning_content_v2_tablet">
+        <item quantity="other">%1$s таны таблетад хэт халалт үүсгэж байна. Та үүнийг одоо хаах боломжтой, эсвэл энэ нь %2$d секундийн дараа автоматаар хаагдана.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%1$s таны таблетад хэт халалт үүсгэж байна. Та үүнийг одоо хаах боломжтой, эсвэл энэ нь %2$d секундийн дараа автоматаар хаагдана.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="sem_chooser_preview_items">
+        <item quantity="other">%d зүйлс</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d зүйлс</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="zen_mode_duration_hours">
+        <item quantity="other">%d цаг</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d цаг</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="zen_mode_duration_hours_summary">
+        <item quantity="other">%d цаг</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d цаг</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="zen_mode_duration_minutes">
+        <item quantity="other">%d минут</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d минут</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="zen_mode_duration_minutes_summary">
+        <item quantity="other">%d минут</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%d минут</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+</resources>

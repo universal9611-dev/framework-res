@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.android.internal.widget.ResolverDrawerLayout android:id="@id/contentPanel" android:layout_width="fill_parent" android:layout_height="fill_parent" android:maxWidth="@dimen/resolver_max_width" android:maxCollapsedHeight="@dimen/sem_chooser_max_collapsed_height" android:maxCollapsedHeightSmall="@dimen/sem_chooser_max_collapsed_height_small"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <RelativeLayout android:id="@id/chooser_header" android:background="@drawable/sem_resolver_background_material" android:layout_width="fill_parent" android:layout_height="wrap_content" android:minHeight="26.0dip" android:layout_alwaysShow="true">
+        <ImageView android:id="@id/drag" android:layout_width="15.0dip" android:layout_height="2.0dip" android:layout_marginTop="12.0dip" android:layout_marginBottom="12.0dip" android:src="@drawable/sem_chooser_drag_handle" android:tint="?^attr-private/semResolverHandleColor" android:layout_alignParentTop="true" android:layout_centerHorizontal="true" />
+        <TextView android:textAppearance="?windowTitleStyle" android:textSize="@dimen/sem_resolver_pagemode_titlepanel_text_size" android:textStyle="bold" android:textColor="?^attr-private/semResolverTitleTextColor" android:gravity="start|bottom|center" android:layout_gravity="bottom" android:id="@id/title" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_below="@id/drag" android:textAllCaps="@bool/sem_resolver_title_panel_default_text_all_caps" android:fontFamily="sec-roboto-light" android:paddingStart="?dialogPreferredPadding" android:paddingEnd="?dialogPreferredPadding" android:layout_toStartOf="@id/sem_title_content_text" android:layout_alignParentStart="true" />
+    </RelativeLayout>
+    <FrameLayout android:id="@id/content_preview_container" android:background="?^attr-private/semResolverBackgroundColor" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="wrap_content" />
+    <TabHost android:id="@id/profile_tabhost" android:background="?^attr-private/semResolverBackgroundColor" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_alignParentTop="true" android:layout_centerHorizontal="true">
+        <LinearLayout android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="wrap_content">
+            <TabWidget android:id="@id/tabs" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="wrap_content" />
+            <View android:id="@id/resolver_tab_divider" android:background="?colorBackgroundFloating" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="1.0dip" android:foreground="?dividerVertical" android:layout_alwaysShow="true" />
+            <FrameLayout android:id="@id/tabcontent" android:layout_width="fill_parent" android:layout_height="wrap_content">
+                <com.android.internal.app.ResolverViewPager android:id="@id/profile_pager" android:layout_width="fill_parent" android:layout_height="wrap_content" />
+            </FrameLayout>
+        </LinearLayout>
+    </TabHost>
+</com.android.internal.widget.ResolverDrawerLayout>

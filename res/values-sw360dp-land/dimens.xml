@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="sem_color_picker_color_swatch_view_height">194.0dip</dimen>
+    <dimen name="sem_color_picker_color_swatch_view_width">194.0dip</dimen>
+    <dimen name="sem_color_picker_main_content_width">520.0dip</dimen>
+    <dimen name="sem_color_picker_opacity_seekbar_background_width">257.5dip</dimen>
+    <dimen name="sem_color_picker_seekbar_width">268.0dip</dimen>
+    <dimen name="sem_color_picker_selected_color_focus_width">129.0dip</dimen>
+    <dimen name="sem_color_picker_selected_color_group_width">258.0dip</dimen>
+    <dimen name="sem_color_picker_selected_color_text_width">71.0dip</dimen>
+    <dimen name="sem_color_picker_used_color_group_width">260.0dip</dimen>
+    <dimen name="sem_color_picker_used_color_item_gap_margin">8.399994dip</dimen>
+    <dimen name="sem_color_picker_used_color_item_size">36.0dip</dimen>
+    <dimen name="sem_datepicker_calendar_day_height_mtrl">28.0dip</dimen>
+    <dimen name="sem_datepicker_calendar_header_button_height_mtrl">32.0dip</dimen>
+    <dimen name="sem_datepicker_calendar_header_button_width_mtrl">32.0dip</dimen>
+    <dimen name="sem_datepicker_calendar_header_height_mtrl">32.0dip</dimen>
+    <dimen name="sem_datepicker_calendar_view_height_mtrl">168.0dip</dimen>
+    <dimen name="sem_datepicker_calendar_week_height_mtrl">28.0dip</dimen>
+    <dimen name="sem_datepicker_day_number_select_circle_radius_mtrl">12.0dip</dimen>
+    <dimen name="sem_datepicker_gap_between_header_and_weekend">9.0dip</dimen>
+    <dimen name="sem_datepicker_gap_between_weekend_and_calender">7.0dip</dimen>
+</resources>

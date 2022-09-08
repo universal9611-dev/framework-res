@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item>
+        <shape android:shape="rectangle">
+            <corners android:radius="2.5dip" />
+            <size android:height="@dimen/sem_mw_freeform_handler_height" android:width="@dimen/sem_mw_freeform_handler_width" />
+            <solid android:color="#33fafafa" />
+        </shape>
+    </item>
+    <item>
+        <shape android:shape="rectangle">
+            <corners android:radius="2.5dip" />
+            <solid android:color="#ff0381fe" />
+            <stroke android:width="1.0dip" android:color="#00ffffff" />
+        </shape>
+    </item>
+</layer-list>
