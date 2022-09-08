@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.samsung.android.multiwindow.OverlayHandlerView android:background="@null" android:clickable="true" android:clipChildren="false" android:clipToPadding="false" android:layout_width="wrap_content" android:layout_height="wrap_content" android:contentDescription="@string/sem_decor_caption_description_quick_options" android:importantForAccessibility="yes" android:elevation="30.0px" android:tooltipText="@string/sem_decor_caption_description_quick_options"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <view android:background="@null" android:visibility="invisible" android:layout_width="wrap_content" android:layout_height="wrap_content" class="com.samsung.android.multiwindow.OverlayHandlerView$BarView" />
+    <view android:background="@null" android:layout_width="wrap_content" android:layout_height="wrap_content" class="com.samsung.android.multiwindow.OverlayHandlerView$BarView" />
+</com.samsung.android.multiwindow.OverlayHandlerView>

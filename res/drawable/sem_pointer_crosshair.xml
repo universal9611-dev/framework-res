@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector android:height="@dimen/sem_mouse_pointer_icon_default_size" android:width="@dimen/sem_mouse_pointer_icon_default_size" android:autoMirrored="true" android:viewportWidth="64.0" android:viewportHeight="64.0"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <path android:fillColor="#ff000000" android:pathData="M30.4,5.5L30.2555,5.5069C29.4949,5.5796 28.9,6.2203 28.9,7L28.9,28.9L7,28.9C6.1716,28.9 5.5,29.5716 5.5,30.4L5.5,33.6L5.5069,33.7445C5.5796,34.5051 6.2203,35.1 7.0001,35.1L28.9,35.098L28.9,57C28.9,57.8284 29.5716,58.5 30.4,58.5L33.6,58.5L33.7445,58.4931C34.5051,58.4204 35.1,57.7797 35.1,57L35.1,35.098L56.9999,35.1C57.8284,35.1 58.5,34.4285 58.5,33.6L58.5,30.4L58.4931,30.2555C58.4204,29.4949 57.7797,28.9 57,28.9L35.1,28.9L35.1,7C35.1,6.1716 34.4284,5.5 33.6,5.5L30.4,5.5Z" android:strokeColor="#00000000" android:strokeWidth="1.0" android:fillType="nonZero" />
+    <path android:fillColor="#ffffffff" android:pathData="M33.6,7l0,23.4l23.4,0l0,3.2l-23.4,-0.001l0,23.401l-3.2,0l0,-23.401l-23.4,0.001l0,-3.2l23.4,0l0,-23.4z" android:strokeColor="#00000000" android:strokeWidth="1.0" android:fillType="nonZero" />
+</vector>
