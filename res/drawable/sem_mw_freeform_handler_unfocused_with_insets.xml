@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="utf-8"?>
+<inset android:drawable="@drawable/sem_mw_freeform_handler_unfocused" android:insetLeft="@dimen/sem_mw_freeform_handler_inset" android:insetRight="@dimen/sem_mw_freeform_handler_inset" android:insetTop="@dimen/sem_mw_freeform_handler_top_inset" android:insetBottom="@dimen/sem_mw_freeform_handler_inset"
+  xmlns:android="http://schemas.android.com/apk/res/android" />

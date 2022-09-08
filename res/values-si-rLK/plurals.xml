@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="SDcardBlockUnmount_message">
+        <item quantity="other">යෙදුම් ස්ථාපනය කර ඇති SD කාඩ්පතක් ඉවත් කළ නිසා ඔබේ දුරකථනය අස්ථාවරයි. ඔබේ දුරකථනය සාමාන්‍ය වෙත ආපසු ඒමට තත්පර %dකින් යළි ඇරඹෙනු ඇත. දුරකථනය යළි ඇරඹීමට පෙර නොසුරැකි දත්ත සුරකින්න.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">යෙදුම් ස්ථාපනය කර ඇති SD කාඩ්පතක් ඉවත් කළ නිසා ඔබේ දුරකථනය අස්ථාවරයි. ඔබේ දුරකථනය සාමාන්‍ය වෙත ආපසු ඒමට තත්පර %dකින් යළි ඇරඹෙනු ඇත. දුරකථනය යළි ඇරඹීමට පෙර නොසුරැකි දත්ත සුරකින්න.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="SDcardBlockUnmount_title">
+        <item quantity="other">ඔබේ දුරකථනය තත්පර %dන් යළි ඇරඹෙනු ඇත</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">ඔබේ දුරකථනය තත්පර %dන් යළි ඇරඹෙනු ඇත</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="app_kills_content_v2_phone">
+        <item quantity="other">යෙදුම් %dක් ඔබේ දුරකථනය උණුසුම් වීමට හේතු වූ නිසා ස්වයංක්‍රීයව වැසිණි. ඔබට ඔබේ දුරකථනය සිසිල් වීමෙන් පසුව ඒවා නැවත විවෘත කළ හැකිය.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">යෙදුම් %dක් ඔබේ දුරකථනය උණුසුම් වීමට හේතු වූ නිසා ස්වයංක්‍රීයව වැසිණි. ඔබට ඔබේ දුරකථනය සිසිල් වීමෙන් පසුව එය නැවත විවෘත කළ හැකිය.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="app_kills_content_v2_tablet">
+        <item quantity="other">යෙදුම් %dක් ඔබේ ටැබ්ලටය උණුසුම් වීමට හේතු වූ නිසා ස්වයංක්‍රීයව වැසිණි. ඔබට ඔබේ ටැබ්ලටය සිසිල් වීමෙන් පසුව ඒවා නැවත විවෘත කළ හැකිය.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">යෙදුම් %dක් ඔබේ ටැබ්ලටය උණුසුම් වීමට හේතු වූ නිසා ස්වයංක්‍රීයව වැසිණි. ඔබට ඔබේ ටැබ්ලටය සිසිල් වීමෙන් පසුව එය නැවත විවෘත කළ හැකිය.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="app_kills_title_v2">
+        <item quantity="other">යෙදුම් %dක් වැසිණි</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">යෙදුම් %dක් වැසිණි</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="dex_max_count_text">
+        <item quantity="other">එකවර තිරයෙහි යෙදුම් %dකට වඩා පෙන්විය නොහැක. පැරණිතම යෙදුම අවම කෙරිණි.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">එකවර තිරයෙහි යෙදුම් %dකට වඩා පෙන්විය නොහැක. පැරණිතම යෙදුම අවම කෙරිණි.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="mdo_notification_description">
+        <item quantity="other">ඔබේ දුරකථනය Wi-Fi වෙත සම්බන්ධ වූ විට පවා යෙදුම් %dක් ජංගම දත්ත භාවිතා කරයි.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">යෙදුම් %dක් ඔබේ දුරකථනය Wi-Fi වෙත සම්බන්ධ වූ විට පවා ජංගම දත්ත භාවිතා කරයි.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="overheat_warning_content_v2_phone">
+        <item quantity="other">%1$s ඔබේ දුරකථනය අධිකව රත් වීමට හේතු වේ. ඔබට එය දැන් වැසිය හැකිය, නැතහොත් එය තත්පර %2$dකින් ස්වයංක්‍රීයව වැසෙනු ඇත.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%1$s ඔබේ දුරකථනය අධිකව රත් වීමට හේතු වේ. ඔබට එය දැන් වැසිය හැකිය, නැතහොත් එය තත්පර %2$dකින් ස්වයංක්‍රීයව වැසෙනු ඇත.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="overheat_warning_content_v2_tablet">
+        <item quantity="other">%1$s ඔබේ ටැබ්ලටය අධිකව රත් වීමට හේතු වේ. ඔබට එය දැන් වැසිය හැකිය, නැතහොත් එය තත්පර %2$dකින් ස්වයංක්‍රීයව වැසෙනු ඇත.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%1$s ඔබේ ටැබ්ලටය අධිකව රත් වීමට හේතු වේ. ඔබට එය දැන් වැසිය හැකිය, නැතහොත් එය තත්පර %2$dකින් ස්වයංක්‍රීයව වැසෙනු ඇත.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="sem_chooser_preview_items">
+        <item quantity="other">අයිතම %dක්</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">අයිතම %dක්</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="zen_mode_duration_hours">
+        <item quantity="other">පැය %dක්</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">පැය %dක්</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="zen_mode_duration_hours_summary">
+        <item quantity="other">පැය %dක්</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">පැය %dක්</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="zen_mode_duration_minutes">
+        <item quantity="other">විනාඩි %dක්</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">විනාඩි %dක්</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="zen_mode_duration_minutes_summary">
+        <item quantity="other">විනාඩි %dක්</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">විනාඩි %dක්</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+</resources>

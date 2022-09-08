@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<inset android:insetLeft="5.0dip" android:insetRight="5.0dip" android:insetTop="7.0dip" android:insetBottom="10.0dip"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <bitmap android:src="@drawable/sem_mw_handler_focused" android:alpha="0.7" />
+</inset>

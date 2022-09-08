@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animated-selector
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:state_pressed="true" android:id="@id/pressed">
+        <nine-patch android:src="@drawable/sem_progress_bar_expand03" />
+    </item>
+    <item android:id="@id/unpressed">
+        <inset android:insetTop="7.0dip" android:insetBottom="7.0dip">
+            <nine-patch android:src="@drawable/sem_progress_bar_expand01" />
+        </inset>
+    </item>
+    <transition android:drawable="@drawable/sem_progress_bar_animation_expand" android:toId="@id/pressed" android:fromId="@id/unpressed" />
+    <transition android:drawable="@drawable/sem_progress_bar_animation_collapse" android:toId="@id/unpressed" android:fromId="@id/pressed" />
+</animated-selector>

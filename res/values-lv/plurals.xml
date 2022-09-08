@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="SDcardBlockUnmount_message">
+        <item quantity="other">Jūsu tālruņa darbība nav stabila, jo ir izņemta SD karte, kurā ir instalētas programmas. Lai atjaunotu normālu darbību, jūsu tālrunis pēc %d sekundēm tiks restartēts. Pirms tālruņa restartēšanas saglabājiet visus datus.</item>
+        <item quantity="zero">Jūsu tālruņa darbība nav stabila, jo ir izņemta SD karte, kurā ir instalētas programmas. Lai atjaunotu normālu darbību, jūsu tālrunis pēc %d sekundēm tiks restartēts. Pirms tālruņa restartēšanas saglabājiet visus datus.</item>
+        <item quantity="one">Jūsu tālruņa darbība nav stabila, jo ir izņemta SD karte, kurā ir instalētas programmas. Lai atjaunotu normālu darbību, jūsu tālrunis pēc %d sekundes tiks restartēts. Pirms tālruņa restartēšanas saglabājiet visus datus.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="SDcardBlockUnmount_title">
+        <item quantity="other">Tālrunis tiks restartēts pēc %d sek.</item>
+        <item quantity="zero">Tālrunis tiks restartēts pēc %d sek.</item>
+        <item quantity="one">Tālrunis tiks restartēts pēc %d sek.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="app_kills_content_v2_phone">
+        <item quantity="other">%d programmas tika aizvērtas automātiski, jo tās izraisīja tālruņa pārkaršanu. Vēlāk, kad planšetdators būs atdzisis, varēsit tās atkal atvērt.</item>
+        <item quantity="zero">%d programmas tika aizvērtas automātiski, jo tās izraisīja tālruņa pārkaršanu. Vēlāk, kad planšetdators būs atdzisis, varēsit tās atkal atvērt.</item>
+        <item quantity="one">%d programma tika aizvērta automātiski, jo tā izraisīja tālruņa pārkaršanu. Vēlāk, kad tālrunis būs atdzisis, varēsit to atkal atvērt.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="app_kills_content_v2_tablet">
+        <item quantity="other">%d programmas tika aizvērtas automātiski, jo tās izraisa planšetdatora pārkaršanu. Vēlāk, kad planšetdators būs atdzisis, varēsit tās atkal atvērt.</item>
+        <item quantity="zero">%d programmas tika aizvērtas automātiski, jo tās izraisa planšetdatora pārkaršanu. Vēlāk, kad planšetdators būs atdzisis, varēsit tās atkal atvērt.</item>
+        <item quantity="one">%d programma tika aizvērta automātiski, jo tā izraisa planšetdatora pārkaršanu. Vēlāk, kad planšetdators būs atdzisis, varēsit to atkal atvērt.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="app_kills_title_v2">
+        <item quantity="other">Aizvērtas %d programmas</item>
+        <item quantity="zero">Aizvērtas %d programmas</item>
+        <item quantity="one">Aizvērta %d programma</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="autofill_picker_some_suggestions">
+        <item quantity="other">%1$s automātiskās aizpildes ieteikumi</item>
+        <item quantity="one">%1$s automātiskās aizpildes ieteikums</item>
+    </plurals>
+    <plurals name="bugreport_countdown">
+        <item quantity="other">Pēc %d sekundēm tiks veikts ekrānuzņēmums kļūdas pārskatam.</item>
+        <item quantity="one">Pēc %d sekundes tiks veikts ekrānuzņēmums kļūdas pārskatam.</item>
+    </plurals>
+    <plurals name="dex_max_count_text">
+        <item quantity="other">Vienlaikus ekrānā var parādīt ne vairāk kā %d programmas. Vecākā programma ir minimizēta.</item>
+        <item quantity="zero">Vienlaikus ekrānā var parādīt ne vairāk kā %d programmas. Vecākā programma ir minimizēta.</item>
+        <item quantity="one">Vienlaikus ekrānā var parādīt ne vairāk kā %d programmu. Vecākā programma ir minimizēta.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="duration_days_relative">
+        <item quantity="other">pirms %d dienām</item>
+        <item quantity="one">pirms %d dienas</item>
+    </plurals>
+    <plurals name="duration_days_relative_future">
+        <item quantity="other">pēc %d dienām</item>
+        <item quantity="one">pēc %d dienas</item>
+    </plurals>
+    <plurals name="duration_days_shortest">
+        <item quantity="other">%dd.</item>
+        <item quantity="one">%dd.</item>
+    </plurals>
+    <plurals name="duration_days_shortest_future">
+        <item quantity="other">pēc %dd.</item>
+        <item quantity="one">pēc %dd.</item>
+    </plurals>
+    <plurals name="duration_hours_relative">
+        <item quantity="other">pirms %d stundām</item>
+        <item quantity="one">pirms %d stundas</item>
+    </plurals>
+    <plurals name="duration_hours_relative_future">
+        <item quantity="other">pēc %d stundām</item>
+        <item quantity="one">pēc %d stundas</item>
+    </plurals>
+    <plurals name="duration_hours_shortest">
+        <item quantity="other">%dh</item>
+        <item quantity="one">%dh</item>
+    </plurals>
+    <plurals name="duration_hours_shortest_future">
+        <item quantity="other">pēc %dh</item>
+        <item quantity="one">pēc %dh</item>
+    </plurals>
+    <plurals name="duration_minutes_relative">
+        <item quantity="other">pirms %d minūtēm</item>
+        <item quantity="one">pirms %d minūtes</item>
+    </plurals>
+    <plurals name="duration_minutes_relative_future">
+        <item quantity="other">pēc %d minūtēm</item>
+        <item quantity="one">pēc %d minūtes</item>
+    </plurals>
+    <plurals name="duration_minutes_shortest">
+        <item quantity="other">%dmin</item>
+        <item quantity="one">%dmin</item>
+    </plurals>
+    <plurals name="duration_minutes_shortest_future">
+        <item quantity="other">pēc %dmin</item>
+        <item quantity="one">pēc %dmin</item>
+    </plurals>
+    <plurals name="duration_years_relative">
+        <item quantity="other">pirms %d gadiem</item>
+        <item quantity="one">pirms %d gada</item>
+    </plurals>
+    <plurals name="duration_years_relative_future">
+        <item quantity="other">pēc %d gadiem</item>
+        <item quantity="one">pēc %d gada</item>
+    </plurals>
+    <plurals name="duration_years_shortest">
+        <item quantity="other">%dg.</item>
+        <item quantity="one">%dg.</item>
+    </plurals>
+    <plurals name="duration_years_shortest_future">
+        <item quantity="other">pēc %d g.</item>
+        <item quantity="one">pēc %d g.</item>
+    </plurals>
+    <plurals name="file_count">
+        <item quantity="other">%1$s un %2$d faili</item>
+        <item quantity="one">%1$s un %2$d fails</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_attempts_countdown">
+        <item quantity="other">Mēģiniet vēlreiz pēc %d sekundēm.</item>
+        <item quantity="one">Mēģiniet vēlreiz pēc %d sekundes.</item>
+    </plurals>
+    <plurals name="last_num_days">
+        <item quantity="other">Pēdējās %d dienās</item>
+        <item quantity="one">Pēdējā %d dienā</item>
+    </plurals>
+    <plurals name="matches_found">
+        <item quantity="other">%1$d. no %2$d</item>
+        <item quantity="one">%1$d. no %2$d</item>
+    </plurals>
+    <plurals name="mdo_notification_description">
+        <item quantity="other">%d programmas izmanto mobilos datus, pat ja tālrunis ir savienots ar Wi-Fi.</item>
+        <item quantity="zero">%d programmas izmanto mobilos datus, pat ja tālrunis ir savienots ar Wi-Fi.</item>
+        <item quantity="one">%d programma lieto mobilos datus pat tad, ja tālrunis ir savienots ar Wi-Fi.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="overheat_warning_content_v2_phone">
+        <item quantity="other">Programma %1$s izraisa tālruņa pārkaršanu. Varat to aizvērt tūlīt, vai tā tiks automātiski aizvērta pēc %2$d sekundēm.</item>
+        <item quantity="zero">Programma %1$s izraisa tālruņa pārkaršanu. Varat to aizvērt tūlīt, vai tā tiks automātiski aizvērta pēc %2$d sekundēm.</item>
+        <item quantity="one">Programma %1$s izraisa tālruņa pārkaršanu. Varat to aizvērt tūlīt, vai tā tiks automātiski aizvērta pēc %2$d sekundes.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="overheat_warning_content_v2_tablet">
+        <item quantity="other">Programma %1$s izraisa planšetdatora pārkaršanu. Varat to aizvērt tūlīt, vai tā tiks automātiski aizvērta pēc %2$d sekundēm.</item>
+        <item quantity="zero">Programma %1$s izraisa planšetdatora pārkaršanu. Varat to aizvērt tūlīt, vai tā tiks automātiski aizvērta pēc %2$d sekundēm.</item>
+        <item quantity="one">Programma %1$s izraisa planšetdatora pārkaršanu. Varat to aizvērt tūlīt, vai tā tiks automātiski aizvērta pēc %2$d sekundes.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="pinpuk_attempts">
+        <item quantity="other">Varat mēģināt vēl %d reizes. Pēdējā mēģinājuma kļūdas gadījumā SIM karte tiks bloķēta.</item>
+        <item quantity="one">Varat mēģināt vēl %d reizi. Pēdējā mēģinājuma kļūdas gadījumā SIM karte tiks bloķēta.</item>
+    </plurals>
+    <plurals name="restr_pin_countdown">
+        <item quantity="other">Mēģiniet vēlreiz pēc %d sekundēm</item>
+        <item quantity="one">Mēģiniet vēlreiz pēc %d sekundes</item>
+    </plurals>
+    <plurals name="selected_count">
+        <item quantity="other">%1$d atlasīti</item>
+        <item quantity="one">%1$d atlasīts</item>
+    </plurals>
+    <plurals name="sem_chooser_preview_items">
+        <item quantity="other">%d objekti</item>
+        <item quantity="zero">%d objekti</item>
+        <item quantity="one">%d objekts</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="ssl_ca_cert_warning">
+        <item quantity="other">Sertificēšanas iestāžu sertifikāti ir instalēti</item>
+        <item quantity="one">Sertificēšanas iestāžu sertifikāti ir instalēti</item>
+    </plurals>
+    <plurals name="zen_mode_duration_hours">
+        <item quantity="other">%d stundas</item>
+        <item quantity="zero">%d stundas</item>
+        <item quantity="one">%d stunda</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="zen_mode_duration_hours_short">
+        <item quantity="other">%d h</item>
+        <item quantity="one">%d h</item>
+    </plurals>
+    <plurals name="zen_mode_duration_hours_summary">
+        <item quantity="other">%d stundas</item>
+        <item quantity="zero">%d stundas</item>
+        <item quantity="one">%d stunda</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="zen_mode_duration_hours_summary_short">
+        <item quantity="other">%1$d h (līdz %2$s)</item>
+        <item quantity="one">%1$d h (līdz %2$s)</item>
+    </plurals>
+    <plurals name="zen_mode_duration_minutes">
+        <item quantity="other">%d minūtes</item>
+        <item quantity="zero">%d minūtes</item>
+        <item quantity="one">%d minūte</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="zen_mode_duration_minutes_short">
+        <item quantity="other">%d min</item>
+        <item quantity="one">%d min</item>
+    </plurals>
+    <plurals name="zen_mode_duration_minutes_summary">
+        <item quantity="other">%d minūtes</item>
+        <item quantity="zero">%d minūtes</item>
+        <item quantity="one">%d minūte</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="zen_mode_duration_minutes_summary_short">
+        <item quantity="other">%1$d min (līdz %2$s)</item>
+        <item quantity="one">%1$d min (līdz %2$s)</item>
+    </plurals>
+</resources>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="resolver_max_width">371.0dip</dimen>
+    <dimen name="sem_datepicker_dialog_width">371.0dip</dimen>
+    <dimen name="sem_resolver_item_minwidth">93.0dip</dimen>
+    <dimen name="sem_timepicker_dialog_width">371.0dip</dimen>
+</resources>

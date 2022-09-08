@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="SDcardBlockUnmount_message">
+        <item quantity="other">යෙදුම් ස්ථාපනය කර ඇති SD කාඩ්පතක් ඉවත් කළ නිසා ඔබේ දුරකථනය අස්ථාවරයි. ඔබේ දුරකථනය සාමාන්‍ය වෙත ආපසු ඒමට තත්පර %dකින් යළි ඇරඹෙනු ඇත. දුරකථනය යළි ඇරඹීමට පෙර නොසුරැකි දත්ත සුරකින්න.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">යෙදුම් ස්ථාපනය කර ඇති SD කාඩ්පතක් ඉවත් කළ නිසා ඔබේ දුරකථනය අස්ථාවරයි. ඔබේ දුරකථනය සාමාන්‍ය වෙත ආපසු ඒමට තත්පර %dකින් යළි ඇරඹෙනු ඇත. දුරකථනය යළි ඇරඹීමට පෙර නොසුරැකි දත්ත සුරකින්න.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="SDcardBlockUnmount_title">
+        <item quantity="other">ඔබේ දුරකථනය තත්පර %dන් යළි ඇරඹෙනු ඇත</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">ඔබේ දුරකථනය තත්පර %dන් යළි ඇරඹෙනු ඇත</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="app_kills_content_v2_phone">
+        <item quantity="other">යෙදුම් %dක් ඔබේ දුරකථනය උණුසුම් වීමට හේතු වූ නිසා ස්වයංක්‍රීයව වැසිණි. ඔබට ඔබේ දුරකථනය සිසිල් වීමෙන් පසුව ඒවා නැවත විවෘත කළ හැකිය.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">යෙදුම් %dක් ඔබේ දුරකථනය උණුසුම් වීමට හේතු වූ නිසා ස්වයංක්‍රීයව වැසිණි. ඔබට ඔබේ දුරකථනය සිසිල් වීමෙන් පසුව එය නැවත විවෘත කළ හැකිය.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="app_kills_content_v2_tablet">
+        <item quantity="other">යෙදුම් %dක් ඔබේ ටැබ්ලටය උණුසුම් වීමට හේතු වූ නිසා ස්වයංක්‍රීයව වැසිණි. ඔබට ඔබේ ටැබ්ලටය සිසිල් වීමෙන් පසුව ඒවා නැවත විවෘත කළ හැකිය.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">යෙදුම් %dක් ඔබේ ටැබ්ලටය උණුසුම් වීමට හේතු වූ නිසා ස්වයංක්‍රීයව වැසිණි. ඔබට ඔබේ ටැබ්ලටය සිසිල් වීමෙන් පසුව එය නැවත විවෘත කළ හැකිය.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="app_kills_title_v2">
+        <item quantity="other">යෙදුම් %dක් වැසිණි</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">යෙදුම් %dක් වැසිණි</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="autofill_picker_some_suggestions">
+        <item quantity="other">ස්වයං පිරවුම් යෝජනා %1$s</item>
+        <item quantity="one">ස්වයං පිරවුම් යෝජනා %1$s</item>
+    </plurals>
+    <plurals name="bugreport_countdown">
+        <item quantity="other">තත්පර %dකින් දෝෂ වාර්තාව සඳහා තිර රුවක් ලබා ගනිමින්</item>
+        <item quantity="one">තත්පර %dකින් දෝෂ වාර්තාව සඳහා තිර රුවක් ලබා ගනිමින්</item>
+    </plurals>
+    <plurals name="dex_max_count_text">
+        <item quantity="other">එකවර තිරයෙහි යෙදුම් %dකට වඩා පෙන්විය නොහැක. පැරණිතම යෙදුම අවම කෙරිණි.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">එකවර තිරයෙහි යෙදුම් %dකට වඩා පෙන්විය නොහැක. පැරණිතම යෙදුම අවම කෙරිණි.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="duration_days_relative">
+        <item quantity="other">දින %dකට පෙර</item>
+        <item quantity="one">දින %dකට පෙර</item>
+    </plurals>
+    <plurals name="duration_days_relative_future">
+        <item quantity="other">දින %dකින්</item>
+        <item quantity="one">දින %dකින්</item>
+    </plurals>
+    <plurals name="duration_days_shortest">
+        <item quantity="other">දි%d</item>
+        <item quantity="one">දි %d</item>
+    </plurals>
+    <plurals name="duration_days_shortest_future">
+        <item quantity="other">දි%dකදී</item>
+        <item quantity="one">දි%dකදී</item>
+    </plurals>
+    <plurals name="duration_hours_relative">
+        <item quantity="other">පැය %dකට පෙර</item>
+        <item quantity="one">පැය %dකට පෙර</item>
+    </plurals>
+    <plurals name="duration_hours_relative_future">
+        <item quantity="other">පැය %dකින්</item>
+        <item quantity="one">පැය %dකින්</item>
+    </plurals>
+    <plurals name="duration_hours_shortest">
+        <item quantity="other">පැ%d</item>
+        <item quantity="one">පැ%d</item>
+    </plurals>
+    <plurals name="duration_hours_shortest_future">
+        <item quantity="other">පැ%dකදී</item>
+        <item quantity="one">පැ%dකදී</item>
+    </plurals>
+    <plurals name="duration_minutes_relative">
+        <item quantity="other">මිනිත්තු %dකට පෙර</item>
+        <item quantity="one">මිනිත්තු %dකට පෙර</item>
+    </plurals>
+    <plurals name="duration_minutes_relative_future">
+        <item quantity="other">මිනිත්තු %dකින්</item>
+        <item quantity="one">මිනිත්තු %dකින්</item>
+    </plurals>
+    <plurals name="duration_minutes_shortest">
+        <item quantity="other">මි%d</item>
+        <item quantity="one">මි%d</item>
+    </plurals>
+    <plurals name="duration_minutes_shortest_future">
+        <item quantity="other">මි%dකදී</item>
+        <item quantity="one">මි%dකදී</item>
+    </plurals>
+    <plurals name="duration_years_relative">
+        <item quantity="other">වසර %dකට පෙර</item>
+        <item quantity="one">වසර %dකට පෙර</item>
+    </plurals>
+    <plurals name="duration_years_relative_future">
+        <item quantity="other">වසර %dකින්</item>
+        <item quantity="one">වසර %dකින්</item>
+    </plurals>
+    <plurals name="duration_years_shortest">
+        <item quantity="other">ව %d</item>
+        <item quantity="one">ව %d</item>
+    </plurals>
+    <plurals name="duration_years_shortest_future">
+        <item quantity="other">ව%dකදී</item>
+        <item quantity="one">ව%dකදී</item>
+    </plurals>
+    <plurals name="file_count">
+        <item quantity="other">ගොනු%1$s + %2$d</item>
+        <item quantity="one">ගොනු%1$s + %2$d</item>
+    </plurals>
+    <plurals name="kg_too_many_failed_attempts_countdown">
+        <item quantity="other">තත්පර %dකින් නැවත උත්සාහ කරන්න.</item>
+        <item quantity="one">තත්පර %dකින් නැවත උත්සාහ කරන්න.</item>
+    </plurals>
+    <plurals name="last_num_days">
+        <item quantity="other">අවසන් දින %d</item>
+        <item quantity="one">අවසන් දින %d</item>
+    </plurals>
+    <plurals name="matches_found">
+        <item quantity="other">%1$d න් %2$d යි</item>
+        <item quantity="one">%1$d න් %2$d යි</item>
+    </plurals>
+    <plurals name="mdo_notification_description">
+        <item quantity="other">ඔබේ දුරකථනය Wi-Fi වෙත සම්බන්ධ වූ විට පවා යෙදුම් %dක් ජංගම දත්ත භාවිතා කරයි.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">යෙදුම් %dක් ඔබේ දුරකථනය Wi-Fi වෙත සම්බන්ධ වූ විට පවා ජංගම දත්ත භාවිතා කරයි.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="overheat_warning_content_v2_phone">
+        <item quantity="other">%1$s ඔබේ දුරකථනය අධිකව රත් වීමට හේතු වේ. ඔබට එය දැන් වැසිය හැකිය, නැතහොත් එය තත්පර %2$dකින් ස්වයංක්‍රීයව වැසෙනු ඇත.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%1$s ඔබේ දුරකථනය අධිකව රත් වීමට හේතු වේ. ඔබට එය දැන් වැසිය හැකිය, නැතහොත් එය තත්පර %2$dකින් ස්වයංක්‍රීයව වැසෙනු ඇත.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="overheat_warning_content_v2_tablet">
+        <item quantity="other">%1$s ඔබේ ටැබ්ලටය අධිකව රත් වීමට හේතු වේ. ඔබට එය දැන් වැසිය හැකිය, නැතහොත් එය තත්පර %2$dකින් ස්වයංක්‍රීයව වැසෙනු ඇත.</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">%1$s ඔබේ ටැබ්ලටය අධිකව රත් වීමට හේතු වේ. ඔබට එය දැන් වැසිය හැකිය, නැතහොත් එය තත්පර %2$dකින් ස්වයංක්‍රීයව වැසෙනු ඇත.</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="pinpuk_attempts">
+        <item quantity="other">ඔබේ SIM කාඩ් පත අඟුළු වැටීමට පෙර තවත් උත්සාහයන් %d ක් ඉතිරිව ඇත.</item>
+        <item quantity="one">ඔබේ SIM කාඩ් පත අඟුළු වැටීමට පෙර තවත් උත්සාහයන් %d ක් ඉතිරිව ඇත.</item>
+    </plurals>
+    <plurals name="restr_pin_countdown">
+        <item quantity="other">තත්පර %d කින් නැවත උත්සාහ කරන්න</item>
+        <item quantity="one">තත්පර %d කින් නැවත උත්සාහ කරන්න</item>
+    </plurals>
+    <plurals name="selected_count">
+        <item quantity="other">%1$d ක් තෝරන ලදි</item>
+        <item quantity="one">%1$d ක් තෝරන ලදි</item>
+    </plurals>
+    <plurals name="sem_chooser_preview_items">
+        <item quantity="other">අයිතම %dක්</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">අයිතම %dක්</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="ssl_ca_cert_warning">
+        <item quantity="other">සහතික අධිකාරි ස්ථාපනය කරන ලදී</item>
+        <item quantity="one">සහතික අධිකාරි ස්ථාපනය කරන ලදී</item>
+    </plurals>
+    <plurals name="zen_mode_duration_hours">
+        <item quantity="other">පැය %dක්</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">පැය %dක්</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="zen_mode_duration_hours_short">
+        <item quantity="other">පැය %d ක් සඳහා</item>
+        <item quantity="one">පැය %d ක් සඳහා</item>
+    </plurals>
+    <plurals name="zen_mode_duration_hours_summary">
+        <item quantity="other">පැය %dක්</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">පැය %dක්</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="zen_mode_duration_hours_summary_short">
+        <item quantity="other">පැය %1$d ක් සඳහා (%2$s තෙක්)</item>
+        <item quantity="one">පැය %1$d ක් සඳහා (%2$s තෙක්)</item>
+    </plurals>
+    <plurals name="zen_mode_duration_minutes">
+        <item quantity="other">විනාඩි %dක්</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">විනාඩි %dක්</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="zen_mode_duration_minutes_short">
+        <item quantity="other">විනාඩි %d ක් සඳහා</item>
+        <item quantity="one">විනාඩි %d ක් සඳහා</item>
+    </plurals>
+    <plurals name="zen_mode_duration_minutes_summary">
+        <item quantity="other">විනාඩි %dක්</item>
+        <item quantity="zero">N/A</item>
+        <item quantity="one">විනාඩි %dක්</item>
+        <item quantity="two">N/A</item>
+        <item quantity="few">N/A</item>
+        <item quantity="many">N/A</item>
+    </plurals>
+    <plurals name="zen_mode_duration_minutes_summary_short">
+        <item quantity="other">විනාඩි %1$d ක් සඳහා (%2$s තෙක්)</item>
+        <item quantity="one">විනාඩි %1$d ක් සඳහා (%2$s තෙක්)</item>
+    </plurals>
+</resources>

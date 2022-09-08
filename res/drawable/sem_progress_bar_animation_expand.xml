@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:duration="32">
+        <inset android:insetTop="7.0dip" android:insetBottom="7.0dip">
+            <nine-patch android:src="@drawable/sem_progress_bar_expand01" />
+        </inset>
+    </item>
+    <item android:duration="11">
+        <inset android:insetTop="6.5dip" android:insetBottom="6.5dip">
+            <nine-patch android:src="@drawable/sem_progress_bar_expand02" />
+        </inset>
+    </item>
+    <item android:duration="8">
+        <inset android:insetTop="6.0dip" android:insetBottom="6.0dip">
+            <nine-patch android:src="@drawable/sem_progress_bar_expand02" />
+        </inset>
+    </item>
+    <item android:duration="7">
+        <inset android:insetTop="5.5dip" android:insetBottom="5.5dip">
+            <nine-patch android:src="@drawable/sem_progress_bar_expand02" />
+        </inset>
+    </item>
+    <item android:duration="7">
+        <inset android:insetTop="5.0dip" android:insetBottom="5.0dip">
+            <nine-patch android:src="@drawable/sem_progress_bar_expand02" />
+        </inset>
+    </item>
+    <item android:duration="6">
+        <inset android:insetTop="4.5dip" android:insetBottom="4.5dip">
+            <nine-patch android:src="@drawable/sem_progress_bar_expand02" />
+        </inset>
+    </item>
+    <item android:duration="7">
+        <inset android:insetTop="4.0dip" android:insetBottom="4.0dip">
+            <nine-patch android:src="@drawable/sem_progress_bar_expand02" />
+        </inset>
+    </item>
+    <item android:duration="7">
+        <inset android:insetTop="3.5dip" android:insetBottom="3.5dip">
+            <nine-patch android:src="@drawable/sem_progress_bar_expand02" />
+        </inset>
+    </item>
+    <item android:duration="8">
+        <inset android:insetTop="3.0dip" android:insetBottom="3.0dip">
+            <nine-patch android:src="@drawable/sem_progress_bar_expand03" />
+        </inset>
+    </item>
+    <item android:duration="10">
+        <inset android:insetTop="2.5dip" android:insetBottom="2.5dip">
+            <nine-patch android:src="@drawable/sem_progress_bar_expand03" />
+        </inset>
+    </item>
+    <item android:duration="11">
+        <inset android:insetTop="2.0dip" android:insetBottom="2.0dip">
+            <nine-patch android:src="@drawable/sem_progress_bar_expand03" />
+        </inset>
+    </item>
+    <item android:duration="14">
+        <inset android:insetTop="1.5dip" android:insetBottom="1.5dip">
+            <nine-patch android:src="@drawable/sem_progress_bar_expand03" />
+        </inset>
+    </item>
+    <item android:duration="18">
+        <inset android:insetTop="1.0dip" android:insetBottom="1.0dip">
+            <nine-patch android:src="@drawable/sem_progress_bar_expand03" />
+        </inset>
+    </item>
+    <item android:duration="26">
+        <inset android:insetTop="0.5dip" android:insetBottom="0.5dip">
+            <nine-patch android:src="@drawable/sem_progress_bar_expand03" />
+        </inset>
+    </item>
+    <item android:duration="10">
+        <inset android:insetTop="0.0dip" android:insetBottom="0.0dip">
+            <nine-patch android:src="@drawable/sem_progress_bar_expand03" />
+        </inset>
+    </item>
+</animation-list>
